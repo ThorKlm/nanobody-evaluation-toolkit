@@ -146,7 +146,7 @@ HADDOCK3: 2025.5.0
 OpenMM: 7.7.0
 
 ```bash
-# Sav[haddock2_4_webserver_evaluation](haddock2_4_webserver_evaluation)e your environment for future recreation
+# Sav[haddock2_4_webservice_evaluation](haddock2_4_webservice_evaluation)e your environment for future recreation
 conda activate Rosetta
 conda env export --no-builds > environment.yml
 ```

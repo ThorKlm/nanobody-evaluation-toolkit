@@ -1,0 +1,3746 @@
+{
+    "nbALB_8y9t-Albumin_1AO6": [
+        {
+            "seed": 0,
+            "binding_energy": 19.47351167574675,
+            "interface_score": 1047.6314569697095
+        },
+        {
+            "seed": 1,
+            "binding_energy": 6.761454020536576,
+            "interface_score": 1060.3435146249196
+        },
+        {
+            "seed": 2,
+            "binding_energy": 53.07985408390459,
+            "interface_score": 1014.0251145615516
+        },
+        {
+            "seed": 3,
+            "binding_energy": 29.28882623757204,
+            "interface_score": 1037.8161424078842
+        },
+        {
+            "seed": 4,
+            "binding_energy": 9.44256771281539,
+            "interface_score": 1057.6624009326408
+        },
+        {
+            "seed": 5,
+            "binding_energy": 19.788063443047804,
+            "interface_score": 1047.3169052024084
+        },
+        {
+            "seed": 6,
+            "binding_energy": 12.299918698660122,
+            "interface_score": 1054.805049946796
+        },
+        {
+            "seed": 7,
+            "binding_energy": 56.09932973935349,
+            "interface_score": 1011.0056389061027
+        },
+        {
+            "seed": 8,
+            "binding_energy": 57.90005726052675,
+            "interface_score": 1009.2049113849295
+        },
+        {
+            "seed": 9,
+            "binding_energy": 26.50831856942864,
+            "interface_score": 1040.5966500760276
+        }
+    ],
+    "nbALB_8y9t-GFP_1B9C": [
+        {
+            "seed": 0,
+            "binding_energy": 1.807904936867999e-10,
+            "interface_score": 202.54540006131023
+        },
+        {
+            "seed": 1,
+            "binding_energy": 1.9056756173085887e-10,
+            "interface_score": 202.54540006130046
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.6441958905488718e-10,
+            "interface_score": 202.5454000613266
+        },
+        {
+            "seed": 3,
+            "binding_energy": 2.9959323910588864e-10,
+            "interface_score": 202.54540006119143
+        },
+        {
+            "seed": 4,
+            "binding_energy": 4.1168846109940205e-10,
+            "interface_score": 202.54540006107933
+        },
+        {
+            "seed": 5,
+            "binding_energy": 3.5768721318163443e-10,
+            "interface_score": 202.54540006113334
+        },
+        {
+            "seed": 6,
+            "binding_energy": 2.525268882891396e-10,
+            "interface_score": 202.5454000612385
+        },
+        {
+            "seed": 7,
+            "binding_energy": 2.0762058738910127e-10,
+            "interface_score": 202.5454000612834
+        },
+        {
+            "seed": 8,
+            "binding_energy": 2.438866886222968e-10,
+            "interface_score": 202.54540006124714
+        },
+        {
+            "seed": 9,
+            "binding_energy": 3.2596858545730356e-10,
+            "interface_score": 202.54540006116505
+        }
+    ],
+    "nbALB_8y9t-Lysozyme_132L": [
+        {
+            "seed": 0,
+            "binding_energy": 2.006999011427979e-10,
+            "interface_score": -74.00581627318395
+        },
+        {
+            "seed": 1,
+            "binding_energy": 2.0376944576128153e-10,
+            "interface_score": -74.00581627318702
+        },
+        {
+            "seed": 2,
+            "binding_energy": 2.369660023759934e-10,
+            "interface_score": -74.00581627322022
+        },
+        {
+            "seed": 3,
+            "binding_energy": 1.8603429907670943e-10,
+            "interface_score": -74.00581627316929
+        },
+        {
+            "seed": 4,
+            "binding_energy": 1.2600764875969617e-10,
+            "interface_score": -74.00581627310926
+        },
+        {
+            "seed": 5,
+            "binding_energy": 2.780069507934968e-10,
+            "interface_score": -74.00581627326126
+        },
+        {
+            "seed": 6,
+            "binding_energy": 2.1331914012989728e-10,
+            "interface_score": -74.00581627319657
+        },
+        {
+            "seed": 7,
+            "binding_energy": 2.7493740617501317e-10,
+            "interface_score": -74.00581627325819
+        },
+        {
+            "seed": 8,
+            "binding_energy": 1.1964118584728567e-10,
+            "interface_score": -74.0058162731029
+        },
+        {
+            "seed": 9,
+            "binding_energy": 2.078621719192597e-10,
+            "interface_score": -74.00581627319112
+        }
+    ],
+    "nbALB_8y9t-NAT_6M17": [
+        {
+            "seed": 0,
+            "binding_energy": 1.3915268937125802e-10,
+            "interface_score": 2267.455261753681
+        },
+        {
+            "seed": 1,
+            "binding_energy": 1.8462742445990443e-10,
+            "interface_score": 2267.4552617536356
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.77351466845721e-10,
+            "interface_score": 2267.455261753643
+        },
+        {
+            "seed": 3,
+            "binding_energy": 1.3733369996771216e-10,
+            "interface_score": 2267.455261753683
+        },
+        {
+            "seed": 4,
+            "binding_energy": 2.701199264265597e-10,
+            "interface_score": 2267.45526175355
+        },
+        {
+            "seed": 5,
+            "binding_energy": 5.834408511873335e-10,
+            "interface_score": 2267.4552617532368
+        },
+        {
+            "seed": 6,
+            "binding_energy": 1.0095391189679503e-10,
+            "interface_score": 2267.4552617537192
+        },
+        {
+            "seed": 7,
+            "binding_energy": 8.276401786133647e-11,
+            "interface_score": 2267.4552617537374
+        },
+        {
+            "seed": 8,
+            "binding_energy": 2.346496330574155e-10,
+            "interface_score": 2267.4552617535855
+        },
+        {
+            "seed": 9,
+            "binding_energy": 3.842615114990622e-10,
+            "interface_score": 2267.455261753436
+        }
+    ],
+    "nbALB_8y9t-SARS_cov2_6LVN": [
+        {
+            "seed": 0,
+            "binding_energy": 4.5503156798076816e-11,
+            "interface_score": -251.8513692333789
+        },
+        {
+            "seed": 1,
+            "binding_energy": 1.4352963262354024e-11,
+            "interface_score": -251.85136923334775
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.8235695876001046e-05,
+            "interface_score": -251.85138746902928
+        },
+        {
+            "seed": 3,
+            "binding_energy": 2.5579538487363607e-13,
+            "interface_score": -251.85136923333366
+        },
+        {
+            "seed": 4,
+            "binding_energy": 1.7536194718559273e-11,
+            "interface_score": -251.85136923335094
+        },
+        {
+            "seed": 5,
+            "binding_energy": 8.881784197001252e-11,
+            "interface_score": -251.85136923342222
+        },
+        {
+            "seed": 6,
+            "binding_energy": 2.5579538487363607e-13,
+            "interface_score": -251.85136923333366
+        },
+        {
+            "seed": 7,
+            "binding_energy": 1.1652900866465643e-12,
+            "interface_score": -251.85136923333457
+        },
+        {
+            "seed": 8,
+            "binding_energy": 1.1652900866465643e-12,
+            "interface_score": -251.85136923333457
+        },
+        {
+            "seed": 9,
+            "binding_energy": 2.5579538487363607e-13,
+            "interface_score": -251.85136923333366
+        }
+    ],
+    "nbALB_8y9t-albumin_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -4444.823458098322,
+            "interface_score": 3447.591333989039
+        },
+        {
+            "seed": 1,
+            "binding_energy": -4249.470292407186,
+            "interface_score": 3252.238168297904
+        },
+        {
+            "seed": 2,
+            "binding_energy": -4190.221571352567,
+            "interface_score": 3192.989447243284
+        },
+        {
+            "seed": 3,
+            "binding_energy": -4190.221571352529,
+            "interface_score": 3192.9894472432466
+        },
+        {
+            "seed": 4,
+            "binding_energy": -3034.012483447811,
+            "interface_score": 2036.7803593385288
+        },
+        {
+            "seed": 5,
+            "binding_energy": -114852.82118224392,
+            "interface_score": 113855.58905813463
+        },
+        {
+            "seed": 6,
+            "binding_energy": -115642.41514918386,
+            "interface_score": 114645.18302507457
+        },
+        {
+            "seed": 7,
+            "binding_energy": -6555.8246833132325,
+            "interface_score": 5558.59255920395
+        },
+        {
+            "seed": 8,
+            "binding_energy": -5053.732907342226,
+            "interface_score": 4056.500783232944
+        },
+        {
+            "seed": 9,
+            "binding_energy": -110227.6290196004,
+            "interface_score": 109230.39689549111
+        }
+    ],
+    "nbALB_8y9t-gfp_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -10601.173668004132,
+            "interface_score": 9921.038239435788
+        },
+        {
+            "seed": 1,
+            "binding_energy": -8983.647994900244,
+            "interface_score": 8303.5125663319
+        },
+        {
+            "seed": 2,
+            "binding_energy": -9422.397165689747,
+            "interface_score": 8742.261737121402
+        },
+        {
+            "seed": 3,
+            "binding_energy": -11019.120115291704,
+            "interface_score": 10338.98468672336
+        },
+        {
+            "seed": 4,
+            "binding_energy": -8600.36161933333,
+            "interface_score": 7920.226190764985
+        },
+        {
+            "seed": 5,
+            "binding_energy": -10030.456494956525,
+            "interface_score": 9350.32106638818
+        },
+        {
+            "seed": 6,
+            "binding_energy": -8670.480675860868,
+            "interface_score": 7990.345247292524
+        },
+        {
+            "seed": 7,
+            "binding_energy": -9665.858116940824,
+            "interface_score": 8985.72268837248
+        },
+        {
+            "seed": 8,
+            "binding_energy": -11190.273474311129,
+            "interface_score": 10510.138045742784
+        },
+        {
+            "seed": 9,
+            "binding_energy": -27784.934876270418,
+            "interface_score": 27104.799447702073
+        }
+    ],
+    "nbALB_8y9t-lysozyme_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -7937.016285853522,
+            "interface_score": 7424.719919536391
+        },
+        {
+            "seed": 1,
+            "binding_energy": -7660.9095876103,
+            "interface_score": 7148.613221293169
+        },
+        {
+            "seed": 2,
+            "binding_energy": -10549.060866053303,
+            "interface_score": 10036.764499736171
+        },
+        {
+            "seed": 3,
+            "binding_energy": -9205.172895457732,
+            "interface_score": 8692.8765291406
+        },
+        {
+            "seed": 4,
+            "binding_energy": -7570.3646707331645,
+            "interface_score": 7058.068304416033
+        },
+        {
+            "seed": 5,
+            "binding_energy": -8537.066590835664,
+            "interface_score": 8024.770224518533
+        },
+        {
+            "seed": 6,
+            "binding_energy": -7346.517394340726,
+            "interface_score": 6834.221028023594
+        },
+        {
+            "seed": 7,
+            "binding_energy": -11370.920451260045,
+            "interface_score": 10858.624084942912
+        },
+        {
+            "seed": 8,
+            "binding_energy": -9259.552766290579,
+            "interface_score": 8747.256399973447
+        },
+        {
+            "seed": 9,
+            "binding_energy": -7938.501964845662,
+            "interface_score": 7426.205598528531
+        }
+    ],
+    "nbALB_8y9t-mCherry_1G7K": [
+        {
+            "seed": 0,
+            "binding_energy": 7.735110330031603e-10,
+            "interface_score": 124.51719964153854
+        },
+        {
+            "seed": 1,
+            "binding_energy": 7.597549256388447e-10,
+            "interface_score": 124.5171996415523
+        },
+        {
+            "seed": 2,
+            "binding_energy": 7.068905460982933e-10,
+            "interface_score": 124.51719964160516
+        },
+        {
+            "seed": 3,
+            "binding_energy": 8.792397920842632e-10,
+            "interface_score": 124.51719964143281
+        },
+        {
+            "seed": 4,
+            "binding_energy": 7.44861949897313e-10,
+            "interface_score": 124.51719964156719
+        },
+        {
+            "seed": 5,
+            "binding_energy": 7.689635594942956e-10,
+            "interface_score": 124.51719964154309
+        },
+        {
+            "seed": 6,
+            "binding_energy": 7.201919061117223e-10,
+            "interface_score": 124.51719964159186
+        },
+        {
+            "seed": 7,
+            "binding_energy": 6.756266657248489e-10,
+            "interface_score": 124.51719964163642
+        },
+        {
+            "seed": 8,
+            "binding_energy": 7.581633099107421e-10,
+            "interface_score": 124.51719964155389
+        },
+        {
+            "seed": 9,
+            "binding_energy": 7.41906092116551e-10,
+            "interface_score": 124.51719964157014
+        }
+    ],
+    "nbALB_8y9t-mcherry_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -5195.667054426972,
+            "interface_score": 4597.665175049527
+        },
+        {
+            "seed": 1,
+            "binding_energy": -9628.657812190702,
+            "interface_score": 9030.655932813257
+        },
+        {
+            "seed": 2,
+            "binding_energy": -5637.678821464454,
+            "interface_score": 5039.676942087009
+        },
+        {
+            "seed": 3,
+            "binding_energy": -7569.116617705378,
+            "interface_score": 6971.114738327933
+        },
+        {
+            "seed": 4,
+            "binding_energy": -7465.963624357316,
+            "interface_score": 6867.961744979871
+        },
+        {
+            "seed": 5,
+            "binding_energy": -9725.336645326674,
+            "interface_score": 9127.334765949228
+        },
+        {
+            "seed": 6,
+            "binding_energy": -7204.480208013347,
+            "interface_score": 6606.478328635902
+        },
+        {
+            "seed": 7,
+            "binding_energy": -7694.325917535807,
+            "interface_score": 7096.324038158362
+        },
+        {
+            "seed": 8,
+            "binding_energy": -7487.168913337376,
+            "interface_score": 6889.16703395993
+        },
+        {
+            "seed": 9,
+            "binding_energy": -6451.861252150232,
+            "interface_score": 5853.859372772787
+        }
+    ],
+    "nbALB_8y9t-nat_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -16596.654551107364,
+            "interface_score": 15836.664036767332
+        },
+        {
+            "seed": 1,
+            "binding_energy": -11013.195513515277,
+            "interface_score": 10253.204999175243
+        },
+        {
+            "seed": 2,
+            "binding_energy": -13946.065095489195,
+            "interface_score": 13186.074581149162
+        },
+        {
+            "seed": 3,
+            "binding_energy": -12392.06103871627,
+            "interface_score": 11632.070524376237
+        },
+        {
+            "seed": 4,
+            "binding_energy": -12527.49533141754,
+            "interface_score": 11767.504817077506
+        },
+        {
+            "seed": 5,
+            "binding_energy": -13283.496156804631,
+            "interface_score": 12523.505642464597
+        },
+        {
+            "seed": 6,
+            "binding_energy": -10861.328938187142,
+            "interface_score": 10101.338423847108
+        },
+        {
+            "seed": 7,
+            "binding_energy": -10110.500123475913,
+            "interface_score": 9350.50960913588
+        },
+        {
+            "seed": 8,
+            "binding_energy": -13128.410985267246,
+            "interface_score": 12368.420470927213
+        },
+        {
+            "seed": 9,
+            "binding_energy": -12520.555056363288,
+            "interface_score": 11760.564542023254
+        }
+    ],
+    "nbALB_8y9t-sars_cov2_rbc_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -6952.197850043482,
+            "interface_score": 6530.049630197838
+        },
+        {
+            "seed": 1,
+            "binding_energy": -7755.356320563415,
+            "interface_score": 7333.208100717771
+        },
+        {
+            "seed": 2,
+            "binding_energy": -5825.830710334401,
+            "interface_score": 5403.682490488758
+        },
+        {
+            "seed": 3,
+            "binding_energy": -7712.306651297391,
+            "interface_score": 7290.158431451748
+        },
+        {
+            "seed": 4,
+            "binding_energy": -9774.733513964184,
+            "interface_score": 9352.58529411854
+        },
+        {
+            "seed": 5,
+            "binding_energy": -6809.032431937063,
+            "interface_score": 6386.88421209142
+        },
+        {
+            "seed": 6,
+            "binding_energy": -7729.6406874294335,
+            "interface_score": 7307.49246758379
+        },
+        {
+            "seed": 7,
+            "binding_energy": -7499.6395178443845,
+            "interface_score": 7077.491297998741
+        },
+        {
+            "seed": 8,
+            "binding_energy": -4831.474484641193,
+            "interface_score": 4409.32626479555
+        },
+        {
+            "seed": 9,
+            "binding_energy": -7478.4316064395625,
+            "interface_score": 7056.283386593919
+        }
+    ],
+    "nbGFP_6xzf-Albumin_1AO6": [
+        {
+            "seed": 0,
+            "binding_energy": 44.361347913884174,
+            "interface_score": 1118.9385227747418
+        },
+        {
+            "seed": 1,
+            "binding_energy": 39.079100088024006,
+            "interface_score": 1124.220770600602
+        },
+        {
+            "seed": 2,
+            "binding_energy": 49.92796087209604,
+            "interface_score": 1113.37190981653
+        },
+        {
+            "seed": 3,
+            "binding_energy": 50.67307472599941,
+            "interface_score": 1112.6267959626266
+        },
+        {
+            "seed": 4,
+            "binding_energy": 49.72196099403914,
+            "interface_score": 1113.5779096945869
+        },
+        {
+            "seed": 5,
+            "binding_energy": 49.87710339938485,
+            "interface_score": 1113.4227672892412
+        },
+        {
+            "seed": 6,
+            "binding_energy": 42.4529899130564,
+            "interface_score": 1120.8468807755696
+        },
+        {
+            "seed": 7,
+            "binding_energy": 52.870909728542756,
+            "interface_score": 1110.4289609600833
+        },
+        {
+            "seed": 8,
+            "binding_energy": 46.796118253166014,
+            "interface_score": 1116.50375243546
+        },
+        {
+            "seed": 9,
+            "binding_energy": 49.1222614650153,
+            "interface_score": 1114.1776092236107
+        }
+    ],
+    "nbGFP_6xzf-GFP_1B9C": [
+        {
+            "seed": 0,
+            "binding_energy": 3.78690856450703e-10,
+            "interface_score": 298.740302104282
+        },
+        {
+            "seed": 1,
+            "binding_energy": 3.78690856450703e-10,
+            "interface_score": 298.740302104282
+        },
+        {
+            "seed": 2,
+            "binding_energy": 3.78690856450703e-10,
+            "interface_score": 298.740302104282
+        },
+        {
+            "seed": 3,
+            "binding_energy": 3.78690856450703e-10,
+            "interface_score": 298.740302104282
+        },
+        {
+            "seed": 4,
+            "binding_energy": 3.78690856450703e-10,
+            "interface_score": 298.740302104282
+        },
+        {
+            "seed": 5,
+            "binding_energy": 4.608864401234314e-10,
+            "interface_score": 298.7403021041998
+        },
+        {
+            "seed": 6,
+            "binding_energy": 3.78690856450703e-10,
+            "interface_score": 298.740302104282
+        },
+        {
+            "seed": 7,
+            "binding_energy": 3.78690856450703e-10,
+            "interface_score": 298.740302104282
+        },
+        {
+            "seed": 8,
+            "binding_energy": 4.3235104385530576e-10,
+            "interface_score": 298.74030210422836
+        },
+        {
+            "seed": 9,
+            "binding_energy": 3.78690856450703e-10,
+            "interface_score": 298.740302104282
+        }
+    ],
+    "nbGFP_6xzf-Lysozyme_132L": [
+        {
+            "seed": 0,
+            "binding_energy": 1.3962164757685969e-10,
+            "interface_score": 22.189085770046844
+        },
+        {
+            "seed": 1,
+            "binding_energy": 0.0017735690692148864,
+            "interface_score": 22.18731220111725
+        },
+        {
+            "seed": 2,
+            "binding_energy": 2.0544632661767537e-10,
+            "interface_score": 22.18908576998102
+        },
+        {
+            "seed": 3,
+            "binding_energy": 2.8832403131673345e-10,
+            "interface_score": 22.189085769898142
+        },
+        {
+            "seed": 4,
+            "binding_energy": 2.703615109567181e-10,
+            "interface_score": 22.189085769916105
+        },
+        {
+            "seed": 5,
+            "binding_energy": 2.1590551568806404e-10,
+            "interface_score": 22.18908576997056
+        },
+        {
+            "seed": 6,
+            "binding_energy": 0.006641555577871827,
+            "interface_score": 22.182444214608594
+        },
+        {
+            "seed": 7,
+            "binding_energy": 2.476241434123949e-10,
+            "interface_score": 22.189085769938842
+        },
+        {
+            "seed": 8,
+            "binding_energy": 2.3797140335393863,
+            "interface_score": 19.80937173664708
+        },
+        {
+            "seed": 9,
+            "binding_energy": 2.3216273348225513e-10,
+            "interface_score": 22.189085769954303
+        }
+    ],
+    "nbGFP_6xzf-NAT_6M17": [
+        {
+            "seed": 0,
+            "binding_energy": 2.4419932742603123e-10,
+            "interface_score": 2363.650163796746
+        },
+        {
+            "seed": 1,
+            "binding_energy": 2.4692781153135e-10,
+            "interface_score": 2363.650163796743
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.4370016288012266e-10,
+            "interface_score": 2363.6501637968463
+        },
+        {
+            "seed": 3,
+            "binding_energy": 1.432454155292362e-10,
+            "interface_score": 2363.6501637968468
+        },
+        {
+            "seed": 4,
+            "binding_energy": 4.192770575173199e-10,
+            "interface_score": 2363.6501637965707
+        },
+        {
+            "seed": 5,
+            "binding_energy": 3.1604940886609256e-10,
+            "interface_score": 2363.650163796674
+        },
+        {
+            "seed": 6,
+            "binding_energy": 1.6416379367001355e-10,
+            "interface_score": 2363.650163796826
+        },
+        {
+            "seed": 7,
+            "binding_energy": 1.596163201611489e-10,
+            "interface_score": 2363.6501637968304
+        },
+        {
+            "seed": 8,
+            "binding_energy": 1.6279955161735415e-10,
+            "interface_score": 2363.650163796827
+        },
+        {
+            "seed": 9,
+            "binding_energy": 1.1050360626541078e-10,
+            "interface_score": 2363.6501637968795
+        }
+    ],
+    "nbGFP_6xzf-SARS_cov2_6LVN": [
+        {
+            "seed": 0,
+            "binding_energy": 0.10364231681518277,
+            "interface_score": -155.76010950697884
+        },
+        {
+            "seed": 1,
+            "binding_energy": 7.673861546209082e-11,
+            "interface_score": -155.6564671902404
+        },
+        {
+            "seed": 2,
+            "binding_energy": 4.388311936054379e-11,
+            "interface_score": -155.65646719020754
+        },
+        {
+            "seed": 3,
+            "binding_energy": 1.5006662579253316e-11,
+            "interface_score": -155.65646719017866
+        },
+        {
+            "seed": 4,
+            "binding_energy": 1.7053025658242404e-13,
+            "interface_score": -155.65646719016382
+        },
+        {
+            "seed": 5,
+            "binding_energy": 2.6489033189136535e-11,
+            "interface_score": -155.65646719019014
+        },
+        {
+            "seed": 6,
+            "binding_energy": 1.7053025658242404e-13,
+            "interface_score": -155.65646719016382
+        },
+        {
+            "seed": 7,
+            "binding_energy": 1.8246737454319373e-11,
+            "interface_score": -155.6564671901819
+        },
+        {
+            "seed": 8,
+            "binding_energy": 1.7053025658242404e-13,
+            "interface_score": -155.65646719016382
+        },
+        {
+            "seed": 9,
+            "binding_energy": 1.864464138634503e-11,
+            "interface_score": -155.6564671901823
+        }
+    ],
+    "nbGFP_6xzf-albumin_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -10865.988147372405,
+            "interface_score": 9964.950925306293
+        },
+        {
+            "seed": 1,
+            "binding_energy": -9966.308911684857,
+            "interface_score": 9065.271689618745
+        },
+        {
+            "seed": 2,
+            "binding_energy": -10839.235403369148,
+            "interface_score": 9938.198181303036
+        },
+        {
+            "seed": 3,
+            "binding_energy": -9437.60489450368,
+            "interface_score": 8536.567672437568
+        },
+        {
+            "seed": 4,
+            "binding_energy": -8551.923828998748,
+            "interface_score": 7650.886606932636
+        },
+        {
+            "seed": 5,
+            "binding_energy": -10679.932324554085,
+            "interface_score": 9778.895102487973
+        },
+        {
+            "seed": 6,
+            "binding_energy": -10886.012415698435,
+            "interface_score": 9984.975193632323
+        },
+        {
+            "seed": 7,
+            "binding_energy": -21974.580227755207,
+            "interface_score": 21073.543005689095
+        },
+        {
+            "seed": 8,
+            "binding_energy": -9830.165336024524,
+            "interface_score": 8929.128113958412
+        },
+        {
+            "seed": 9,
+            "binding_energy": -10838.711374604674,
+            "interface_score": 9937.674152538562
+        }
+    ],
+    "nbGFP_6xzf-gfp_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -13974.154607813616,
+            "interface_score": 13390.21408128844
+        },
+        {
+            "seed": 1,
+            "binding_energy": -190453.6165937163,
+            "interface_score": 189869.67606719112
+        },
+        {
+            "seed": 2,
+            "binding_energy": -179089.8381345146,
+            "interface_score": 178505.89760798943
+        },
+        {
+            "seed": 3,
+            "binding_energy": -11131.488911468292,
+            "interface_score": 10547.548384943117
+        },
+        {
+            "seed": 4,
+            "binding_energy": -10622.008265681983,
+            "interface_score": 10038.067739156808
+        },
+        {
+            "seed": 5,
+            "binding_energy": -11298.914569148343,
+            "interface_score": 10714.974042623167
+        },
+        {
+            "seed": 6,
+            "binding_energy": -14162.724135284845,
+            "interface_score": 13578.78360875967
+        },
+        {
+            "seed": 7,
+            "binding_energy": -9770.265112162615,
+            "interface_score": 9186.32458563744
+        },
+        {
+            "seed": 8,
+            "binding_energy": -7488.177440918189,
+            "interface_score": 6904.236914393015
+        },
+        {
+            "seed": 9,
+            "binding_energy": -9548.074399914518,
+            "interface_score": 8964.133873389343
+        }
+    ],
+    "nbGFP_6xzf-lysozyme_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -6332.032629783086,
+            "interface_score": 5915.931165509124
+        },
+        {
+            "seed": 1,
+            "binding_energy": -8557.996642507454,
+            "interface_score": 8141.895178233492
+        },
+        {
+            "seed": 2,
+            "binding_energy": -6710.38442517782,
+            "interface_score": 6294.282960903858
+        },
+        {
+            "seed": 3,
+            "binding_energy": -8324.831774230885,
+            "interface_score": 7908.730309956922
+        },
+        {
+            "seed": 4,
+            "binding_energy": -4213.207608960762,
+            "interface_score": 3797.1061446867993
+        },
+        {
+            "seed": 5,
+            "binding_energy": -8489.812992172994,
+            "interface_score": 8073.711527899032
+        },
+        {
+            "seed": 6,
+            "binding_energy": -7815.647283059894,
+            "interface_score": 7399.545818785932
+        },
+        {
+            "seed": 7,
+            "binding_energy": -6054.5829864803845,
+            "interface_score": 5638.481522206423
+        },
+        {
+            "seed": 8,
+            "binding_energy": -6009.486617738815,
+            "interface_score": 5593.385153464853
+        },
+        {
+            "seed": 9,
+            "binding_energy": -7628.179319796778,
+            "interface_score": 7212.077855522816
+        }
+    ],
+    "nbGFP_6xzf-mCherry_1G7K": [
+        {
+            "seed": 0,
+            "binding_energy": 7.401013135677204e-10,
+            "interface_score": 220.71210168474167
+        },
+        {
+            "seed": 1,
+            "binding_energy": 7.626113074366003e-10,
+            "interface_score": 220.71210168471916
+        },
+        {
+            "seed": 2,
+            "binding_energy": 8.748202162678353e-10,
+            "interface_score": 220.71210168460695
+        },
+        {
+            "seed": 3,
+            "binding_energy": 9.233644959749654e-10,
+            "interface_score": 220.7121016845584
+        },
+        {
+            "seed": 4,
+            "binding_energy": 7.9705841926625e-10,
+            "interface_score": 220.7121016846847
+        },
+        {
+            "seed": 5,
+            "binding_energy": 9.121094990405254e-10,
+            "interface_score": 220.71210168456966
+        },
+        {
+            "seed": 6,
+            "binding_energy": 7.753442332614213e-10,
+            "interface_score": 220.71210168470643
+        },
+        {
+            "seed": 7,
+            "binding_energy": 7.057678885757923e-10,
+            "interface_score": 220.712101684776
+        },
+        {
+            "seed": 8,
+            "binding_energy": 7.532889867434278e-10,
+            "interface_score": 220.71210168472848
+        },
+        {
+            "seed": 9,
+            "binding_energy": 9.1313268058002e-10,
+            "interface_score": 220.71210168456864
+        }
+    ],
+    "nbGFP_6xzf-mcherry_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -8484.289059200117,
+            "interface_score": 7982.482081865841
+        },
+        {
+            "seed": 1,
+            "binding_energy": -13286.670436324659,
+            "interface_score": 12784.863458990383
+        },
+        {
+            "seed": 2,
+            "binding_energy": -9959.186524385603,
+            "interface_score": 9457.379547051327
+        },
+        {
+            "seed": 3,
+            "binding_energy": -10505.019651449933,
+            "interface_score": 10003.212674115657
+        },
+        {
+            "seed": 4,
+            "binding_energy": -5902.697789819491,
+            "interface_score": 5400.890812485216
+        },
+        {
+            "seed": 5,
+            "binding_energy": -11073.086248425094,
+            "interface_score": 10571.279271090818
+        },
+        {
+            "seed": 6,
+            "binding_energy": -8032.7373621513925,
+            "interface_score": 7530.930384817118
+        },
+        {
+            "seed": 7,
+            "binding_energy": -9108.206670328724,
+            "interface_score": 8606.399692994448
+        },
+        {
+            "seed": 8,
+            "binding_energy": -8881.970810514296,
+            "interface_score": 8380.16383318002
+        },
+        {
+            "seed": 9,
+            "binding_energy": -3524.774812955632,
+            "interface_score": 3022.9678356213567
+        }
+    ],
+    "nbGFP_6xzf-nat_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -8093.467207029729,
+            "interface_score": 7429.671594732865
+        },
+        {
+            "seed": 1,
+            "binding_energy": -8948.5576726867,
+            "interface_score": 8284.762060389836
+        },
+        {
+            "seed": 2,
+            "binding_energy": -13927.472891219797,
+            "interface_score": 13263.677278922933
+        },
+        {
+            "seed": 3,
+            "binding_energy": -6862.508091089636,
+            "interface_score": 6198.712478792772
+        },
+        {
+            "seed": 4,
+            "binding_energy": -10682.926635541402,
+            "interface_score": 10019.131023244538
+        },
+        {
+            "seed": 5,
+            "binding_energy": -14003.869196637599,
+            "interface_score": 13340.073584340735
+        },
+        {
+            "seed": 6,
+            "binding_energy": -11084.09567177313,
+            "interface_score": 10420.300059476265
+        },
+        {
+            "seed": 7,
+            "binding_energy": -8957.920203601489,
+            "interface_score": 8294.124591304624
+        },
+        {
+            "seed": 8,
+            "binding_energy": -9918.317877332205,
+            "interface_score": 9254.52226503534
+        },
+        {
+            "seed": 9,
+            "binding_energy": -8454.8707000687,
+            "interface_score": 7791.075087771837
+        }
+    ],
+    "nbGFP_6xzf-sars_cov2_rbc_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -8702.883118396676,
+            "interface_score": 8376.929800594202
+        },
+        {
+            "seed": 1,
+            "binding_energy": -11420.14758232196,
+            "interface_score": 11094.194264519487
+        },
+        {
+            "seed": 2,
+            "binding_energy": -138608.39028737578,
+            "interface_score": 138282.4369695733
+        },
+        {
+            "seed": 3,
+            "binding_energy": -138142.50550285645,
+            "interface_score": 137816.55218505397
+        },
+        {
+            "seed": 4,
+            "binding_energy": -8353.814615002002,
+            "interface_score": 8027.861297199529
+        },
+        {
+            "seed": 5,
+            "binding_energy": -136232.03644552172,
+            "interface_score": 135906.08312771923
+        },
+        {
+            "seed": 6,
+            "binding_energy": -9532.246983341507,
+            "interface_score": 9206.293665539033
+        },
+        {
+            "seed": 7,
+            "binding_energy": -10739.055640053126,
+            "interface_score": 10413.102322250652
+        },
+        {
+            "seed": 8,
+            "binding_energy": -11295.65687735814,
+            "interface_score": 10969.703559555666
+        },
+        {
+            "seed": 9,
+            "binding_energy": -9036.3246942729,
+            "interface_score": 8710.371376470426
+        }
+    ],
+    "nbMCherry_8ilx-Albumin_1AO6": [
+        {
+            "seed": 0,
+            "binding_energy": 41.92966445427237,
+            "interface_score": 1085.4065464995806
+        },
+        {
+            "seed": 1,
+            "binding_energy": 41.929664454233716,
+            "interface_score": 1085.4065464996193
+        },
+        {
+            "seed": 2,
+            "binding_energy": 41.92966445442289,
+            "interface_score": 1085.40654649943
+        },
+        {
+            "seed": 3,
+            "binding_energy": 59.455298489437155,
+            "interface_score": 1067.8809124644158
+        },
+        {
+            "seed": 4,
+            "binding_energy": 62.346854862580585,
+            "interface_score": 1064.9893560912724
+        },
+        {
+            "seed": 5,
+            "binding_energy": 41.929717560933796,
+            "interface_score": 1085.4064933929192
+        },
+        {
+            "seed": 6,
+            "binding_energy": 41.92966445436355,
+            "interface_score": 1085.4065464994894
+        },
+        {
+            "seed": 7,
+            "binding_energy": 41.929664454352405,
+            "interface_score": 1085.4065464995006
+        },
+        {
+            "seed": 8,
+            "binding_energy": 41.92966445439379,
+            "interface_score": 1085.4065464994592
+        },
+        {
+            "seed": 9,
+            "binding_energy": 49.39670986933015,
+            "interface_score": 1077.9395010845228
+        }
+    ],
+    "nbMCherry_8ilx-GFP_1B9C": [
+        {
+            "seed": 0,
+            "binding_energy": 4.1514840434711004,
+            "interface_score": 258.62515832641657
+        },
+        {
+            "seed": 1,
+            "binding_energy": 1.5087464134921902e-05,
+            "interface_score": 262.77662728242353
+        },
+        {
+            "seed": 2,
+            "binding_energy": 0.12701782994236055,
+            "interface_score": 262.6496245399453
+        },
+        {
+            "seed": 3,
+            "binding_energy": 1.7269030649913475e-10,
+            "interface_score": 262.776642369715
+        },
+        {
+            "seed": 4,
+            "binding_energy": 7.877650176686473,
+            "interface_score": 254.8989921932012
+        },
+        {
+            "seed": 5,
+            "binding_energy": 2.8955674565622758e-05,
+            "interface_score": 262.7766134142131
+        },
+        {
+            "seed": 6,
+            "binding_energy": 2.0054358174093068e-10,
+            "interface_score": 262.7766423696871
+        },
+        {
+            "seed": 7,
+            "binding_energy": 5.10772478718809,
+            "interface_score": 257.6689175826996
+        },
+        {
+            "seed": 8,
+            "binding_energy": 0.001062795685470519,
+            "interface_score": 262.7755795742022
+        },
+        {
+            "seed": 9,
+            "binding_energy": 2.9831426218152046e-10,
+            "interface_score": 262.77664236958935
+        }
+    ],
+    "nbMCherry_8ilx-Lysozyme_132L": [
+        {
+            "seed": 0,
+            "binding_energy": 2.3715074348729104e-10,
+            "interface_score": -13.77457396482373
+        },
+        {
+            "seed": 1,
+            "binding_energy": 1.5808450370968785e-07,
+            "interface_score": -13.774574122671083
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.716671249596402e-10,
+            "interface_score": -13.774573964758247
+        },
+        {
+            "seed": 3,
+            "binding_energy": 2.162323653465137e-10,
+            "interface_score": -13.774573964802812
+        },
+        {
+            "seed": 4,
+            "binding_energy": 2.714841684792191e-10,
+            "interface_score": -13.774573964858064
+        },
+        {
+            "seed": 5,
+            "binding_energy": 1.3437784218695015e-10,
+            "interface_score": -13.774573964720958
+        },
+        {
+            "seed": 6,
+            "binding_energy": 1.5847945178393275e-10,
+            "interface_score": -13.77457396474506
+        },
+        {
+            "seed": 7,
+            "binding_energy": 3.192326403222978e-10,
+            "interface_score": -13.774573964905812
+        },
+        {
+            "seed": 8,
+            "binding_energy": 1.6325429896824062e-10,
+            "interface_score": -13.774573964749834
+        },
+        {
+            "seed": 9,
+            "binding_energy": 2.305569068994373e-10,
+            "interface_score": -13.774573964817137
+        }
+    ],
+    "nbMCherry_8ilx-NAT_6M17": [
+        {
+            "seed": 0,
+            "binding_energy": 2.3101165425032377e-10,
+            "interface_score": 2327.686504061986
+        },
+        {
+            "seed": 1,
+            "binding_energy": 3.374225343577564e-10,
+            "interface_score": 2327.6865040618795
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.8917489796876907e-10,
+            "interface_score": 2327.686504062028
+        },
+        {
+            "seed": 3,
+            "binding_energy": 3.5015546018257737e-10,
+            "interface_score": 2327.686504061867
+        },
+        {
+            "seed": 4,
+            "binding_energy": 2.828528522513807e-10,
+            "interface_score": 2327.686504061934
+        },
+        {
+            "seed": 5,
+            "binding_energy": 2.1100277081131935e-10,
+            "interface_score": 2327.686504062006
+        },
+        {
+            "seed": 6,
+            "binding_energy": 1.4097167877480388e-10,
+            "interface_score": 2327.686504062076
+        },
+        {
+            "seed": 7,
+            "binding_energy": 2.8194335754960775e-10,
+            "interface_score": 2327.686504061935
+        },
+        {
+            "seed": 8,
+            "binding_energy": 1.5643308870494366e-10,
+            "interface_score": 2327.6865040620605
+        },
+        {
+            "seed": 9,
+            "binding_energy": 2.874003257602453e-10,
+            "interface_score": 2327.6865040619296
+        }
+    ],
+    "nbMCherry_8ilx-SARS_cov2_6LVN": [
+        {
+            "seed": 0,
+            "binding_energy": 4.5702108764089644e-11,
+            "interface_score": -191.6201269249824
+        },
+        {
+            "seed": 1,
+            "binding_energy": 4.547473508864641e-12,
+            "interface_score": -191.62012692494125
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.2960299500264227e-11,
+            "interface_score": -191.62012692494966
+        },
+        {
+            "seed": 3,
+            "binding_energy": 1.5010368656476203e-05,
+            "interface_score": -191.62014193530536
+        },
+        {
+            "seed": 4,
+            "binding_energy": -1.1368683772161603e-13,
+            "interface_score": -191.62012692493659
+        },
+        {
+            "seed": 5,
+            "binding_energy": 0.12348243444034779,
+            "interface_score": -191.74360935937705
+        },
+        {
+            "seed": 6,
+            "binding_energy": 1.727322683109378e-06,
+            "interface_score": -191.62012865225938
+        },
+        {
+            "seed": 7,
+            "binding_energy": 7.491962605854496e-11,
+            "interface_score": -191.62012692501162
+        },
+        {
+            "seed": 8,
+            "binding_energy": 3.6491314858722035e-07,
+            "interface_score": -191.62012728984985
+        },
+        {
+            "seed": 9,
+            "binding_energy": 1.8189894035458565e-11,
+            "interface_score": -191.6201269249549
+        }
+    ],
+    "nbMCherry_8ilx-albumin_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -164925.07614236575,
+            "interface_score": 163988.07526056486
+        },
+        {
+            "seed": 1,
+            "binding_energy": -165271.49801959694,
+            "interface_score": 164334.49713779605
+        },
+        {
+            "seed": 2,
+            "binding_energy": -167373.34032850477,
+            "interface_score": 166436.33944670387
+        },
+        {
+            "seed": 3,
+            "binding_energy": -163805.6713917651,
+            "interface_score": 162868.6705099642
+        },
+        {
+            "seed": 4,
+            "binding_energy": -164181.92804644472,
+            "interface_score": 163244.92716464383
+        },
+        {
+            "seed": 5,
+            "binding_energy": -165066.87650720665,
+            "interface_score": 164129.87562540575
+        },
+        {
+            "seed": 6,
+            "binding_energy": -165858.14844498425,
+            "interface_score": 164921.14756318336
+        },
+        {
+            "seed": 7,
+            "binding_energy": -133181.43405798337,
+            "interface_score": 132244.43317618247
+        },
+        {
+            "seed": 8,
+            "binding_energy": -165197.89294521045,
+            "interface_score": 164260.89206340956
+        },
+        {
+            "seed": 9,
+            "binding_energy": -166009.7243125481,
+            "interface_score": 165072.7234307472
+        }
+    ],
+    "nbMCherry_8ilx-gfp_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -8244.712446362024,
+            "interface_score": 7624.808260102076
+        },
+        {
+            "seed": 1,
+            "binding_energy": -202245.63689903298,
+            "interface_score": 201625.73271277302
+        },
+        {
+            "seed": 2,
+            "binding_energy": -201459.88241787758,
+            "interface_score": 200839.97823161763
+        },
+        {
+            "seed": 3,
+            "binding_energy": -200286.04972324378,
+            "interface_score": 199666.14553698382
+        },
+        {
+            "seed": 4,
+            "binding_energy": -200685.69165818865,
+            "interface_score": 200065.7874719287
+        },
+        {
+            "seed": 5,
+            "binding_energy": -200827.48124307813,
+            "interface_score": 200207.57705681818
+        },
+        {
+            "seed": 6,
+            "binding_energy": -200110.32149004142,
+            "interface_score": 199490.41730378146
+        },
+        {
+            "seed": 7,
+            "binding_energy": -187046.4225368586,
+            "interface_score": 186426.51835059864
+        },
+        {
+            "seed": 8,
+            "binding_energy": -204645.7652138489,
+            "interface_score": 204025.86102758895
+        },
+        {
+            "seed": 9,
+            "binding_energy": -201107.0420474406,
+            "interface_score": 200487.13786118064
+        }
+    ],
+    "nbMCherry_8ilx-lysozyme_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -8023.63279715629,
+            "interface_score": 7571.567673147554
+        },
+        {
+            "seed": 1,
+            "binding_energy": -10282.113854310266,
+            "interface_score": 9830.04873030153
+        },
+        {
+            "seed": 2,
+            "binding_energy": -9375.460697110464,
+            "interface_score": 8923.395573101729
+        },
+        {
+            "seed": 3,
+            "binding_energy": -10740.850319894413,
+            "interface_score": 10288.785195885677
+        },
+        {
+            "seed": 4,
+            "binding_energy": -6811.6604950964975,
+            "interface_score": 6359.595371087762
+        },
+        {
+            "seed": 5,
+            "binding_energy": -6776.390461493356,
+            "interface_score": 6324.325337484621
+        },
+        {
+            "seed": 6,
+            "binding_energy": -7616.921192911991,
+            "interface_score": 7164.856068903256
+        },
+        {
+            "seed": 7,
+            "binding_energy": -8619.41495244396,
+            "interface_score": 8167.3498284352245
+        },
+        {
+            "seed": 8,
+            "binding_energy": -10106.688186387984,
+            "interface_score": 9654.623062379249
+        },
+        {
+            "seed": 9,
+            "binding_energy": -10919.224353394637,
+            "interface_score": 10467.159229385901
+        }
+    ],
+    "nbMCherry_8ilx-mCherry_1G7K": [
+        {
+            "seed": 0,
+            "binding_energy": 7.7173467616376e-10,
+            "interface_score": 184.748441949937
+        },
+        {
+            "seed": 1,
+            "binding_energy": 6.605489488720195e-10,
+            "interface_score": 184.74844195004817
+        },
+        {
+            "seed": 2,
+            "binding_energy": 9.338521067547845e-10,
+            "interface_score": 184.74844194977487
+        },
+        {
+            "seed": 3,
+            "binding_energy": 5.572076133830706e-10,
+            "interface_score": 184.74844195015152
+        },
+        {
+            "seed": 4,
+            "binding_energy": 6.448601652664365e-10,
+            "interface_score": 184.74844195006386
+        },
+        {
+            "seed": 5,
+            "binding_energy": 8.0549966696708e-10,
+            "interface_score": 184.74844194990322
+        },
+        {
+            "seed": 6,
+            "binding_energy": 7.428582193824695e-10,
+            "interface_score": 184.74844194996587
+        },
+        {
+            "seed": 7,
+            "binding_energy": 6.830589427408995e-10,
+            "interface_score": 184.74844195002566
+        },
+        {
+            "seed": 8,
+            "binding_energy": 7.08070047039655e-10,
+            "interface_score": 184.74844195000065
+        },
+        {
+            "seed": 9,
+            "binding_energy": 7.076152996887686e-10,
+            "interface_score": 184.7484419500011
+        }
+    ],
+    "nbMCherry_8ilx-mcherry_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -7115.030276155785,
+            "interface_score": 6577.259639086737
+        },
+        {
+            "seed": 1,
+            "binding_energy": -8877.978020872453,
+            "interface_score": 8340.207383803405
+        },
+        {
+            "seed": 2,
+            "binding_energy": -13122.116114030434,
+            "interface_score": 12584.345476961385
+        },
+        {
+            "seed": 3,
+            "binding_energy": -12543.17041296389,
+            "interface_score": 12005.39977589484
+        },
+        {
+            "seed": 4,
+            "binding_energy": -9585.871209858598,
+            "interface_score": 9048.10057278955
+        },
+        {
+            "seed": 5,
+            "binding_energy": -7982.714792021149,
+            "interface_score": 7444.944154952101
+        },
+        {
+            "seed": 6,
+            "binding_energy": -11631.856281793525,
+            "interface_score": 11094.085644724477
+        },
+        {
+            "seed": 7,
+            "binding_energy": -10498.346765822676,
+            "interface_score": 9960.576128753628
+        },
+        {
+            "seed": 8,
+            "binding_energy": -11371.551730821438,
+            "interface_score": 10833.78109375239
+        },
+        {
+            "seed": 9,
+            "binding_energy": -142273.5553680549,
+            "interface_score": 141735.78473098585
+        }
+    ],
+    "nbMCherry_8ilx-nat_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -9602.308931177151,
+            "interface_score": 8902.549659145514
+        },
+        {
+            "seed": 1,
+            "binding_energy": -12236.237628463814,
+            "interface_score": 11536.478356432177
+        },
+        {
+            "seed": 2,
+            "binding_energy": -9986.154166835115,
+            "interface_score": 9286.394894803478
+        },
+        {
+            "seed": 3,
+            "binding_energy": -9531.645394639107,
+            "interface_score": 8831.88612260747
+        },
+        {
+            "seed": 4,
+            "binding_energy": -81939.86710013711,
+            "interface_score": 81240.10782810548
+        },
+        {
+            "seed": 5,
+            "binding_energy": -9779.324209128654,
+            "interface_score": 9079.564937097017
+        },
+        {
+            "seed": 6,
+            "binding_energy": -12564.55679108823,
+            "interface_score": 11864.797519056592
+        },
+        {
+            "seed": 7,
+            "binding_energy": -12194.131716863165,
+            "interface_score": 11494.372444831528
+        },
+        {
+            "seed": 8,
+            "binding_energy": -9629.258112708701,
+            "interface_score": 8929.498840677064
+        },
+        {
+            "seed": 9,
+            "binding_energy": -10052.345138880115,
+            "interface_score": 9352.585866848478
+        }
+    ],
+    "nbMCherry_8ilx-sars_cov2_rbc_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -8099.846814875972,
+            "interface_score": 7737.9298373387255
+        },
+        {
+            "seed": 1,
+            "binding_energy": -152354.19282370672,
+            "interface_score": 151992.27584616948
+        },
+        {
+            "seed": 2,
+            "binding_energy": -155399.69652690733,
+            "interface_score": 155037.77954937008
+        },
+        {
+            "seed": 3,
+            "binding_energy": -153760.63449135172,
+            "interface_score": 153398.71751381448
+        },
+        {
+            "seed": 4,
+            "binding_energy": -154998.27293673114,
+            "interface_score": 154636.3559591939
+        },
+        {
+            "seed": 5,
+            "binding_energy": -154464.3237357036,
+            "interface_score": 154102.40675816635
+        },
+        {
+            "seed": 6,
+            "binding_energy": -12416.3235683051,
+            "interface_score": 12054.406590767854
+        },
+        {
+            "seed": 7,
+            "binding_energy": -6040.104072943508,
+            "interface_score": 5678.1870954062615
+        },
+        {
+            "seed": 8,
+            "binding_energy": -157153.3297599183,
+            "interface_score": 156791.41278238106
+        },
+        {
+            "seed": 9,
+            "binding_energy": -157620.0511243622,
+            "interface_score": 157258.13414682494
+        }
+    ],
+    "nbNAT_8zoy-Albumin_1AO6": [
+        {
+            "seed": 0,
+            "binding_energy": 57.99421424470518,
+            "interface_score": 971.3894559258325
+        },
+        {
+            "seed": 1,
+            "binding_energy": 64.38248955226652,
+            "interface_score": 965.0011806182712
+        },
+        {
+            "seed": 2,
+            "binding_energy": 70.83981199202663,
+            "interface_score": 958.5438581785111
+        },
+        {
+            "seed": 3,
+            "binding_energy": 63.68285487818844,
+            "interface_score": 965.7008152923493
+        },
+        {
+            "seed": 4,
+            "binding_energy": 59.80030811915674,
+            "interface_score": 969.583362051381
+        },
+        {
+            "seed": 5,
+            "binding_energy": 63.39171043187912,
+            "interface_score": 965.9919597386586
+        },
+        {
+            "seed": 6,
+            "binding_energy": 64.7207099074858,
+            "interface_score": 964.6629602630519
+        },
+        {
+            "seed": 7,
+            "binding_energy": 73.36359311466879,
+            "interface_score": 956.0200770558689
+        },
+        {
+            "seed": 8,
+            "binding_energy": 56.432906102611014,
+            "interface_score": 972.9507640679267
+        },
+        {
+            "seed": 9,
+            "binding_energy": 64.16161948415368,
+            "interface_score": 965.222050686384
+        }
+    ],
+    "nbNAT_8zoy-GFP_1B9C": [
+        {
+            "seed": 0,
+            "binding_energy": 2.271710567765979,
+            "interface_score": 162.55239101880653
+        },
+        {
+            "seed": 1,
+            "binding_energy": 2.553974809416104e-10,
+            "interface_score": 164.8241015863171
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.5432988220709376e-10,
+            "interface_score": 164.82410158641818
+        },
+        {
+            "seed": 3,
+            "binding_energy": 0.00040199494918624623,
+            "interface_score": 164.82369959162332
+        },
+        {
+            "seed": 4,
+            "binding_energy": 2.9473312679328956e-10,
+            "interface_score": 164.82410158627778
+        },
+        {
+            "seed": 5,
+            "binding_energy": 1.8764012565952726e-10,
+            "interface_score": 164.82410158638487
+        },
+        {
+            "seed": 6,
+            "binding_energy": 2.1515234038815834e-10,
+            "interface_score": 164.82410158635736
+        },
+        {
+            "seed": 7,
+            "binding_energy": 4.782236828759778e-10,
+            "interface_score": 164.8241015860943
+        },
+        {
+            "seed": 8,
+            "binding_energy": 0.12383272734274442,
+            "interface_score": 164.70026885922977
+        },
+        {
+            "seed": 9,
+            "binding_energy": 0.05422942706178446,
+            "interface_score": 164.76987215951073
+        }
+    ],
+    "nbNAT_8zoy-Lysozyme_132L": [
+        {
+            "seed": 0,
+            "binding_energy": 2.9767477371933637e-10,
+            "interface_score": -111.72711474819944
+        },
+        {
+            "seed": 1,
+            "binding_energy": 0.40312213443421285,
+            "interface_score": -112.13023688233598
+        },
+        {
+            "seed": 2,
+            "binding_energy": 0.06832157504349823,
+            "interface_score": -111.79543632294526
+        },
+        {
+            "seed": 3,
+            "binding_energy": 3.064465949630147,
+            "interface_score": -114.79158069753191
+        },
+        {
+            "seed": 4,
+            "binding_energy": 1.4851764262857614e-10,
+            "interface_score": -111.72711474805028
+        },
+        {
+            "seed": 5,
+            "binding_energy": 1.3362466688704444e-10,
+            "interface_score": -111.72711474803539
+        },
+        {
+            "seed": 6,
+            "binding_energy": 2.0183676952001406e-10,
+            "interface_score": -111.7271147481036
+        },
+        {
+            "seed": 7,
+            "binding_energy": 1.7853096778708277e-10,
+            "interface_score": -111.7271147480803
+        },
+        {
+            "seed": 8,
+            "binding_energy": 1.7125501017289935e-10,
+            "interface_score": -111.72711474807302
+        },
+        {
+            "seed": 9,
+            "binding_energy": 0.19416338856267146,
+            "interface_score": -111.92127813646444
+        }
+    ],
+    "nbNAT_8zoy-NAT_6M17": [
+        {
+            "seed": 0,
+            "binding_energy": 2.346496330574155e-10,
+            "interface_score": 2229.733963278667
+        },
+        {
+            "seed": 1,
+            "binding_energy": 1.7689671949483454e-10,
+            "interface_score": 2229.733963278725
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.3960743672214448e-10,
+            "interface_score": 2229.733963278762
+        },
+        {
+            "seed": 3,
+            "binding_energy": 2.4374458007514477e-10,
+            "interface_score": 2229.733963278658
+        },
+        {
+            "seed": 4,
+            "binding_energy": 1.3142198440618813e-10,
+            "interface_score": 2229.7339632787703
+        },
+        {
+            "seed": 5,
+            "binding_energy": 2.773958840407431e-11,
+            "interface_score": 2229.733963278874
+        },
+        {
+            "seed": 6,
+            "binding_energy": 7.23048287909478e-11,
+            "interface_score": 2229.7339632788294
+        },
+        {
+            "seed": 7,
+            "binding_energy": 1.4551915228366852e-10,
+            "interface_score": 2229.733963278756
+        },
+        {
+            "seed": 8,
+            "binding_energy": 2.964952727779746e-10,
+            "interface_score": 2229.733963278605
+        },
+        {
+            "seed": 9,
+            "binding_energy": 3.8562575355172157e-10,
+            "interface_score": 2229.733963278516
+        }
+    ],
+    "nbNAT_8zoy-SARS_cov2_6LVN": [
+        {
+            "seed": 0,
+            "binding_energy": -1.1368683772161603e-13,
+            "interface_score": -289.5726677082518
+        },
+        {
+            "seed": 1,
+            "binding_energy": 1.9326762412674725e-12,
+            "interface_score": -289.57266770825385
+        },
+        {
+            "seed": 2,
+            "binding_energy": 2.546585164964199e-11,
+            "interface_score": -289.5726677082774
+        },
+        {
+            "seed": 3,
+            "binding_energy": 2.432898327242583e-11,
+            "interface_score": -289.57266770827624
+        },
+        {
+            "seed": 4,
+            "binding_energy": 2.580691216280684e-11,
+            "interface_score": -289.5726677082777
+        },
+        {
+            "seed": 5,
+            "binding_energy": 1.945488531873707e-05,
+            "interface_score": -289.57268716313723
+        },
+        {
+            "seed": 6,
+            "binding_energy": 0.0025074593266936063,
+            "interface_score": -289.5751751675786
+        },
+        {
+            "seed": 7,
+            "binding_energy": 5.582023732131347e-11,
+            "interface_score": -289.57266770830773
+        },
+        {
+            "seed": 8,
+            "binding_energy": 0.14375863645864229,
+            "interface_score": -289.71642634471056
+        },
+        {
+            "seed": 9,
+            "binding_energy": -1.1368683772161603e-13,
+            "interface_score": -289.5726677082518
+        }
+    ],
+    "nbNAT_8zoy-albumin_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -180347.25892399225,
+            "interface_score": 179312.30550140806
+        },
+        {
+            "seed": 1,
+            "binding_energy": -176513.7951281693,
+            "interface_score": 175478.8417055851
+        },
+        {
+            "seed": 2,
+            "binding_energy": -174729.40258586523,
+            "interface_score": 173694.44916328104
+        },
+        {
+            "seed": 3,
+            "binding_energy": -182691.17159410776,
+            "interface_score": 181656.21817152356
+        },
+        {
+            "seed": 4,
+            "binding_energy": -166465.71452350751,
+            "interface_score": 165430.76110092332
+        },
+        {
+            "seed": 5,
+            "binding_energy": -8688.388903295516,
+            "interface_score": 7653.435480711315
+        },
+        {
+            "seed": 6,
+            "binding_energy": -178218.70350723882,
+            "interface_score": 177183.75008465463
+        },
+        {
+            "seed": 7,
+            "binding_energy": -11724.76182762221,
+            "interface_score": 10689.808405038008
+        },
+        {
+            "seed": 8,
+            "binding_energy": -176500.56363674806,
+            "interface_score": 175465.61021416387
+        },
+        {
+            "seed": 9,
+            "binding_energy": -10180.670631963047,
+            "interface_score": 9145.717209378847
+        }
+    ],
+    "nbNAT_8zoy-gfp_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -8053.901517244758,
+            "interface_score": 7336.044790201495
+        },
+        {
+            "seed": 1,
+            "binding_energy": -7633.163458178824,
+            "interface_score": 6915.306731135561
+        },
+        {
+            "seed": 2,
+            "binding_energy": -186684.44721198067,
+            "interface_score": 185966.59048493742
+        },
+        {
+            "seed": 3,
+            "binding_energy": -11817.023740029355,
+            "interface_score": 11099.167012986092
+        },
+        {
+            "seed": 4,
+            "binding_energy": -10045.15303884985,
+            "interface_score": 9327.296311806587
+        },
+        {
+            "seed": 5,
+            "binding_energy": -186008.23589773785,
+            "interface_score": 185290.3791706946
+        },
+        {
+            "seed": 6,
+            "binding_energy": -190015.95806363333,
+            "interface_score": 189298.10133659007
+        },
+        {
+            "seed": 7,
+            "binding_energy": -7353.801533448382,
+            "interface_score": 6635.9448064051185
+        },
+        {
+            "seed": 8,
+            "binding_energy": -191236.2913596864,
+            "interface_score": 190518.43463264316
+        },
+        {
+            "seed": 9,
+            "binding_energy": -5150.905686171499,
+            "interface_score": 4433.048959128236
+        }
+    ],
+    "nbNAT_8zoy-lysozyme_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -7891.642991513603,
+            "interface_score": 7341.6253267215525
+        },
+        {
+            "seed": 1,
+            "binding_energy": -8931.955204343718,
+            "interface_score": 8381.937539551667
+        },
+        {
+            "seed": 2,
+            "binding_energy": -5423.281493530065,
+            "interface_score": 4873.263828738014
+        },
+        {
+            "seed": 3,
+            "binding_energy": -8200.612437219954,
+            "interface_score": 7650.594772427904
+        },
+        {
+            "seed": 4,
+            "binding_energy": -7321.223854510097,
+            "interface_score": 6771.2061897180465
+        },
+        {
+            "seed": 5,
+            "binding_energy": -6615.701843408902,
+            "interface_score": 6065.684178616852
+        },
+        {
+            "seed": 6,
+            "binding_energy": -5388.107996989778,
+            "interface_score": 4838.0903321977285
+        },
+        {
+            "seed": 7,
+            "binding_energy": -7246.299009060556,
+            "interface_score": 6696.2813442685065
+        },
+        {
+            "seed": 8,
+            "binding_energy": -5026.345219203136,
+            "interface_score": 4476.327554411087
+        },
+        {
+            "seed": 9,
+            "binding_energy": -4834.5795829108865,
+            "interface_score": 4284.561918118837
+        }
+    ],
+    "nbNAT_8zoy-mCherry_1G7K": [
+        {
+            "seed": 0,
+            "binding_energy": 8.558629360777559e-10,
+            "interface_score": 86.79590116653767
+        },
+        {
+            "seed": 1,
+            "binding_energy": 7.580922556371661e-10,
+            "interface_score": 86.79590116663545
+        },
+        {
+            "seed": 2,
+            "binding_energy": 7.263736279128352e-10,
+            "interface_score": 86.79590116666716
+        },
+        {
+            "seed": 3,
+            "binding_energy": 7.95722598923021e-10,
+            "interface_score": 86.79590116659782
+        },
+        {
+            "seed": 4,
+            "binding_energy": 7.765095233480679e-10,
+            "interface_score": 86.79590116661703
+        },
+        {
+            "seed": 5,
+            "binding_energy": 6.836273769295076e-10,
+            "interface_score": 86.79590116670991
+        },
+        {
+            "seed": 6,
+            "binding_energy": 7.158007520047249e-10,
+            "interface_score": 86.79590116667774
+        },
+        {
+            "seed": 7,
+            "binding_energy": 9.029292868945049e-10,
+            "interface_score": 86.79590116649061
+        },
+        {
+            "seed": 8,
+            "binding_energy": 8.550671282137046e-10,
+            "interface_score": 86.79590116653847
+        },
+        {
+            "seed": 9,
+            "binding_energy": 6.243965344765456e-10,
+            "interface_score": 86.79590116676914
+        }
+    ],
+    "nbNAT_8zoy-mcherry_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -7610.782346256886,
+            "interface_score": 6975.059168404522
+        },
+        {
+            "seed": 1,
+            "binding_energy": -7775.24976260146,
+            "interface_score": 7139.526584749096
+        },
+        {
+            "seed": 2,
+            "binding_energy": -10590.405559271101,
+            "interface_score": 9954.682381418737
+        },
+        {
+            "seed": 3,
+            "binding_energy": -8958.817813992087,
+            "interface_score": 8323.094636139724
+        },
+        {
+            "seed": 4,
+            "binding_energy": -7311.576357653759,
+            "interface_score": 6675.8531798013955
+        },
+        {
+            "seed": 5,
+            "binding_energy": -5929.822198219824,
+            "interface_score": 5294.09902036746
+        },
+        {
+            "seed": 6,
+            "binding_energy": -5491.414066066048,
+            "interface_score": 4855.690888213684
+        },
+        {
+            "seed": 7,
+            "binding_energy": -9207.080627236579,
+            "interface_score": 8571.357449384215
+        },
+        {
+            "seed": 8,
+            "binding_energy": -7137.773143954726,
+            "interface_score": 6502.049966102362
+        },
+        {
+            "seed": 9,
+            "binding_energy": -6431.878958203523,
+            "interface_score": 5796.15578035116
+        }
+    ],
+    "nbNAT_8zoy-nat_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -11581.780193553326,
+            "interface_score": 10784.068380738374
+        },
+        {
+            "seed": 1,
+            "binding_energy": -10476.254356384608,
+            "interface_score": 9678.542543569656
+        },
+        {
+            "seed": 2,
+            "binding_energy": -11636.259406110237,
+            "interface_score": 10838.547593295285
+        },
+        {
+            "seed": 3,
+            "binding_energy": -13367.252003067433,
+            "interface_score": 12569.54019025248
+        },
+        {
+            "seed": 4,
+            "binding_energy": -7893.129031851198,
+            "interface_score": 7095.417219036246
+        },
+        {
+            "seed": 5,
+            "binding_energy": -6933.940838066654,
+            "interface_score": 6136.229025251701
+        },
+        {
+            "seed": 6,
+            "binding_energy": -9512.019412159341,
+            "interface_score": 8714.307599344389
+        },
+        {
+            "seed": 7,
+            "binding_energy": -12226.01712665538,
+            "interface_score": 11428.305313840428
+        },
+        {
+            "seed": 8,
+            "binding_energy": -10060.23691617897,
+            "interface_score": 9262.525103364018
+        },
+        {
+            "seed": 9,
+            "binding_energy": -12051.036305368047,
+            "interface_score": 11253.324492553094
+        }
+    ],
+    "nbNAT_8zoy-sars_cov2_rbc_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -143251.68001857732,
+            "interface_score": 142791.81050025675
+        },
+        {
+            "seed": 1,
+            "binding_energy": -141216.11017019168,
+            "interface_score": 140756.2406518711
+        },
+        {
+            "seed": 2,
+            "binding_energy": -144060.54735927033,
+            "interface_score": 143600.67784094976
+        },
+        {
+            "seed": 3,
+            "binding_energy": -131999.46666110193,
+            "interface_score": 131539.59714278136
+        },
+        {
+            "seed": 4,
+            "binding_energy": -142153.06871347848,
+            "interface_score": 141693.1991951579
+        },
+        {
+            "seed": 5,
+            "binding_energy": -143014.36957039093,
+            "interface_score": 142554.50005207036
+        },
+        {
+            "seed": 6,
+            "binding_energy": -142399.222353072,
+            "interface_score": 141939.35283475142
+        },
+        {
+            "seed": 7,
+            "binding_energy": -142319.65231132967,
+            "interface_score": 141859.7827930091
+        },
+        {
+            "seed": 8,
+            "binding_energy": -125297.09357121358,
+            "interface_score": 124837.22405289303
+        },
+        {
+            "seed": 9,
+            "binding_energy": -7470.764475916925,
+            "interface_score": 7010.894957596363
+        }
+    ],
+    "nbSARS_7f5h-Albumin_1AO6": [
+        {
+            "seed": 0,
+            "binding_energy": 79.12500665936682,
+            "interface_score": 992.6412693843424
+        },
+        {
+            "seed": 1,
+            "binding_energy": 83.23696290877444,
+            "interface_score": 988.5293131349348
+        },
+        {
+            "seed": 2,
+            "binding_energy": 87.74463728828562,
+            "interface_score": 984.0216387554236
+        },
+        {
+            "seed": 3,
+            "binding_energy": 107.0699946909524,
+            "interface_score": 964.6962813527568
+        },
+        {
+            "seed": 4,
+            "binding_energy": 100.20376341045107,
+            "interface_score": 971.5625126332582
+        },
+        {
+            "seed": 5,
+            "binding_energy": 85.4135717512712,
+            "interface_score": 986.352704292438
+        },
+        {
+            "seed": 6,
+            "binding_energy": 105.08277211792131,
+            "interface_score": 966.6835039257879
+        },
+        {
+            "seed": 7,
+            "binding_energy": 87.06928647365089,
+            "interface_score": 984.6969895700583
+        },
+        {
+            "seed": 8,
+            "binding_energy": 129.06830650397558,
+            "interface_score": 942.6979695397337
+        },
+        {
+            "seed": 9,
+            "binding_energy": 119.37144037988764,
+            "interface_score": 952.3948356638216
+        }
+    ],
+    "nbSARS_7f5h-GFP_1B9C": [
+        {
+            "seed": 0,
+            "binding_energy": 1.7212187231052667e-10,
+            "interface_score": 207.20670745957193
+        },
+        {
+            "seed": 1,
+            "binding_energy": 3.732338882400654e-10,
+            "interface_score": 207.20670745937082
+        },
+        {
+            "seed": 2,
+            "binding_energy": 3.8176040106918663e-10,
+            "interface_score": 207.2067074593623
+        },
+        {
+            "seed": 3,
+            "binding_energy": 7.799011246255134,
+            "interface_score": 199.40769621348892
+        },
+        {
+            "seed": 4,
+            "binding_energy": 0.046271379432255344,
+            "interface_score": 207.1604360803118
+        },
+        {
+            "seed": 5,
+            "binding_energy": 3.2980875373683887,
+            "interface_score": 203.90861992237566
+        },
+        {
+            "seed": 6,
+            "binding_energy": 0.09813662238275356,
+            "interface_score": 207.1085708373613
+        },
+        {
+            "seed": 7,
+            "binding_energy": 0.00283060343372199,
+            "interface_score": 207.20387685631033
+        },
+        {
+            "seed": 8,
+            "binding_energy": 7.407587223000803,
+            "interface_score": 199.79912023674325
+        },
+        {
+            "seed": 9,
+            "binding_energy": 0.06023476389452753,
+            "interface_score": 207.14647269584952
+        }
+    ],
+    "nbSARS_7f5h-Lysozyme_132L": [
+        {
+            "seed": 0,
+            "binding_energy": 2.794182874522022,
+            "interface_score": -72.13869174925225
+        },
+        {
+            "seed": 1,
+            "binding_energy": 0.2805817079726296,
+            "interface_score": -69.62509058270285
+        },
+        {
+            "seed": 2,
+            "binding_energy": 3.7203989367018835,
+            "interface_score": -73.06490781143211
+        },
+        {
+            "seed": 3,
+            "binding_energy": 64.54519470836505,
+            "interface_score": -133.88970358309527
+        },
+        {
+            "seed": 4,
+            "binding_energy": 0.18403646687343667,
+            "interface_score": -69.52854534160366
+        },
+        {
+            "seed": 5,
+            "binding_energy": 6.543574071773222,
+            "interface_score": -75.88808294650345
+        },
+        {
+            "seed": 6,
+            "binding_energy": 0.5381803242248964,
+            "interface_score": -69.88268919895512
+        },
+        {
+            "seed": 7,
+            "binding_energy": 0.32863015860985456,
+            "interface_score": -69.67313903334008
+        },
+        {
+            "seed": 8,
+            "binding_energy": 2.7775146701216897,
+            "interface_score": -72.12202354485191
+        },
+        {
+            "seed": 9,
+            "binding_energy": 3.374255610112243,
+            "interface_score": -72.71876448484247
+        }
+    ],
+    "nbSARS_7f5h-NAT_6M17": [
+        {
+            "seed": 0,
+            "binding_energy": 1.0413714335300028e-10,
+            "interface_score": 2272.116569151969
+        },
+        {
+            "seed": 1,
+            "binding_energy": 1.0413714335300028e-10,
+            "interface_score": 2272.116569151969
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.0413714335300028e-10,
+            "interface_score": 2272.116569151969
+        },
+        {
+            "seed": 3,
+            "binding_energy": 1.3005774235352874e-10,
+            "interface_score": 2272.116569151943
+        },
+        {
+            "seed": 4,
+            "binding_energy": 3.4560798667371273e-10,
+            "interface_score": 2272.1165691517276
+        },
+        {
+            "seed": 5,
+            "binding_energy": 3.205968823749572e-10,
+            "interface_score": 2272.1165691517526
+        },
+        {
+            "seed": 6,
+            "binding_energy": 1.623448042664677e-10,
+            "interface_score": 2272.116569151911
+        },
+        {
+            "seed": 7,
+            "binding_energy": 1.0413714335300028e-10,
+            "interface_score": 2272.116569151969
+        },
+        {
+            "seed": 8,
+            "binding_energy": 2.041815605480224e-10,
+            "interface_score": 2272.116569151869
+        },
+        {
+            "seed": 9,
+            "binding_energy": 1.0413714335300028e-10,
+            "interface_score": 2272.116569151969
+        }
+    ],
+    "nbSARS_7f5h-SARS_cov2_6LVN": [
+        {
+            "seed": 0,
+            "binding_energy": 1.9326762412674725e-12,
+            "interface_score": -247.1900618350823
+        },
+        {
+            "seed": 1,
+            "binding_energy": 2.467004378559068e-11,
+            "interface_score": -247.19006183510504
+        },
+        {
+            "seed": 2,
+            "binding_energy": 2.2737367544323206e-13,
+            "interface_score": -247.1900618350806
+        },
+        {
+            "seed": 3,
+            "binding_energy": 0.013873931609623469,
+            "interface_score": -247.20393576669
+        },
+        {
+            "seed": 4,
+            "binding_energy": 3.380101884431497e-05,
+            "interface_score": -247.19009563609922
+        },
+        {
+            "seed": 5,
+            "binding_energy": 0.11800958430160335,
+            "interface_score": -247.30807141938197
+        },
+        {
+            "seed": 6,
+            "binding_energy": 0.001768910494206466,
+            "interface_score": -247.19183074557458
+        },
+        {
+            "seed": 7,
+            "binding_energy": 5.968558980384842e-11,
+            "interface_score": -247.19006183514006
+        },
+        {
+            "seed": 8,
+            "binding_energy": 0.46239603958053976,
+            "interface_score": -247.6524578746609
+        },
+        {
+            "seed": 9,
+            "binding_energy": 4.408399343901976,
+            "interface_score": -251.59846117898235
+        }
+    ],
+    "nbSARS_7f5h-albumin_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -145772.58803040863,
+            "interface_score": 144780.0172136976
+        },
+        {
+            "seed": 1,
+            "binding_energy": -168143.68681609898,
+            "interface_score": 167151.11599938796
+        },
+        {
+            "seed": 2,
+            "binding_energy": -167523.54908526244,
+            "interface_score": 166530.9782685514
+        },
+        {
+            "seed": 3,
+            "binding_energy": -145923.8006572456,
+            "interface_score": 144931.22984053456
+        },
+        {
+            "seed": 4,
+            "binding_energy": -171172.09534494558,
+            "interface_score": 170179.52452823456
+        },
+        {
+            "seed": 5,
+            "binding_energy": -156188.488331809,
+            "interface_score": 155195.91751509797
+        },
+        {
+            "seed": 6,
+            "binding_energy": -169429.77551491171,
+            "interface_score": 168437.2046982007
+        },
+        {
+            "seed": 7,
+            "binding_energy": -163057.9536946938,
+            "interface_score": 162065.38287798277
+        },
+        {
+            "seed": 8,
+            "binding_energy": -165892.88470470748,
+            "interface_score": 164900.31388799645
+        },
+        {
+            "seed": 9,
+            "binding_energy": -167897.39022017337,
+            "interface_score": 166904.81940346234
+        }
+    ],
+    "nbSARS_7f5h-gfp_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -109595.38254399509,
+            "interface_score": 108919.908422825
+        },
+        {
+            "seed": 1,
+            "binding_energy": -6728.716641790902,
+            "interface_score": 6053.242520620811
+        },
+        {
+            "seed": 2,
+            "binding_energy": -106226.06388733724,
+            "interface_score": 105550.58976616715
+        },
+        {
+            "seed": 3,
+            "binding_energy": -120606.75840308363,
+            "interface_score": 119931.28428191354
+        },
+        {
+            "seed": 4,
+            "binding_energy": -109055.64341311005,
+            "interface_score": 108380.16929193996
+        },
+        {
+            "seed": 5,
+            "binding_energy": -6870.387751411453,
+            "interface_score": 6194.913630241362
+        },
+        {
+            "seed": 6,
+            "binding_energy": -101483.55596463817,
+            "interface_score": 100808.08184346808
+        },
+        {
+            "seed": 7,
+            "binding_energy": -7508.973666384381,
+            "interface_score": 6833.49954521429
+        },
+        {
+            "seed": 8,
+            "binding_energy": -118386.360032236,
+            "interface_score": 117710.88591106591
+        },
+        {
+            "seed": 9,
+            "binding_energy": -7738.245811693783,
+            "interface_score": 7062.771690523692
+        }
+    ],
+    "nbSARS_7f5h-lysozyme_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -7243.784234484049,
+            "interface_score": 6736.1491755651705
+        },
+        {
+            "seed": 1,
+            "binding_energy": -6066.545087251705,
+            "interface_score": 5558.910028332826
+        },
+        {
+            "seed": 2,
+            "binding_energy": -5557.7769132319245,
+            "interface_score": 5050.141854313046
+        },
+        {
+            "seed": 3,
+            "binding_energy": -6159.879351265636,
+            "interface_score": 5652.244292346757
+        },
+        {
+            "seed": 4,
+            "binding_energy": -4449.7434532813295,
+            "interface_score": 3942.108394362451
+        },
+        {
+            "seed": 5,
+            "binding_energy": -7677.830767430391,
+            "interface_score": 7170.195708511512
+        },
+        {
+            "seed": 6,
+            "binding_energy": -4605.161382379089,
+            "interface_score": 4097.526323460211
+        },
+        {
+            "seed": 7,
+            "binding_energy": -8342.780167278,
+            "interface_score": 7835.145108359122
+        },
+        {
+            "seed": 8,
+            "binding_energy": -7691.852838971107,
+            "interface_score": 7184.217780052229
+        },
+        {
+            "seed": 9,
+            "binding_energy": -5984.887256200757,
+            "interface_score": 5477.252197281879
+        }
+    ],
+    "nbSARS_7f5h-mCherry_1G7K": [
+        {
+            "seed": 0,
+            "binding_energy": 8.1956841313513e-10,
+            "interface_score": 129.1785070397455
+        },
+        {
+            "seed": 1,
+            "binding_energy": 6.979234967730008e-10,
+            "interface_score": 129.17850703986716
+        },
+        {
+            "seed": 2,
+            "binding_energy": 7.947846825118177e-10,
+            "interface_score": 129.1785070397703
+        },
+        {
+            "seed": 3,
+            "binding_energy": 7.754579200991429e-10,
+            "interface_score": 129.17850703978962
+        },
+        {
+            "seed": 4,
+            "binding_energy": 7.886455932748504e-10,
+            "interface_score": 129.17850703977643
+        },
+        {
+            "seed": 5,
+            "binding_energy": 7.299831850104965e-10,
+            "interface_score": 129.1785070398351
+        },
+        {
+            "seed": 6,
+            "binding_energy": 7.172502591856755e-10,
+            "interface_score": 129.17850703984783
+        },
+        {
+            "seed": 7,
+            "binding_energy": 7.904645826783963e-10,
+            "interface_score": 129.17850703977462
+        },
+        {
+            "seed": 8,
+            "binding_energy": 7.729568096692674e-10,
+            "interface_score": 129.17850703979212
+        },
+        {
+            "seed": 9,
+            "binding_energy": 6.567688615177758e-10,
+            "interface_score": 129.1785070399083
+        }
+    ],
+    "nbSARS_7f5h-mcherry_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -7478.286780446253,
+            "interface_score": 6884.946208467061
+        },
+        {
+            "seed": 1,
+            "binding_energy": -9127.092036529202,
+            "interface_score": 8533.75146455001
+        },
+        {
+            "seed": 2,
+            "binding_energy": -8256.517807477881,
+            "interface_score": 7663.177235498689
+        },
+        {
+            "seed": 3,
+            "binding_energy": -9113.40933919229,
+            "interface_score": 8520.068767213099
+        },
+        {
+            "seed": 4,
+            "binding_energy": -6325.015855375284,
+            "interface_score": 5731.675283396093
+        },
+        {
+            "seed": 5,
+            "binding_energy": -14474.690602143277,
+            "interface_score": 13881.350030164085
+        },
+        {
+            "seed": 6,
+            "binding_energy": -7577.51355837469,
+            "interface_score": 6984.172986395498
+        },
+        {
+            "seed": 7,
+            "binding_energy": -8566.104993075132,
+            "interface_score": 7972.764421095941
+        },
+        {
+            "seed": 8,
+            "binding_energy": -10369.027576943748,
+            "interface_score": 9775.687004964557
+        },
+        {
+            "seed": 9,
+            "binding_energy": -8722.881728280054,
+            "interface_score": 8129.541156300862
+        }
+    ],
+    "nbSARS_7f5h-nat_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -9019.16311036197,
+            "interface_score": 8263.833903420189
+        },
+        {
+            "seed": 1,
+            "binding_energy": -11306.7395819609,
+            "interface_score": 10551.410375019119
+        },
+        {
+            "seed": 2,
+            "binding_energy": -9816.629319631897,
+            "interface_score": 9061.300112690116
+        },
+        {
+            "seed": 3,
+            "binding_energy": -13171.5797957431,
+            "interface_score": 12416.25058880132
+        },
+        {
+            "seed": 4,
+            "binding_energy": -7338.719497537461,
+            "interface_score": 6583.390290595681
+        },
+        {
+            "seed": 5,
+            "binding_energy": -11160.180157063216,
+            "interface_score": 10404.850950121436
+        },
+        {
+            "seed": 6,
+            "binding_energy": -188472.78263341016,
+            "interface_score": 187717.45342646836
+        },
+        {
+            "seed": 7,
+            "binding_energy": -198995.5536310623,
+            "interface_score": 198240.2244241205
+        },
+        {
+            "seed": 8,
+            "binding_energy": -195579.60826675018,
+            "interface_score": 194824.27905980838
+        },
+        {
+            "seed": 9,
+            "binding_energy": -12124.866140766975,
+            "interface_score": 11369.536933825195
+        }
+    ],
+    "nbSARS_7f5h-sars_cov2_rbc_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -3479.256455818489,
+            "interface_score": 3061.7695433710987
+        },
+        {
+            "seed": 1,
+            "binding_energy": -8551.813397864968,
+            "interface_score": 8134.326485417577
+        },
+        {
+            "seed": 2,
+            "binding_energy": -3528.1053852659797,
+            "interface_score": 3110.6184728185895
+        },
+        {
+            "seed": 3,
+            "binding_energy": -7009.054275277285,
+            "interface_score": 6591.5673628298955
+        },
+        {
+            "seed": 4,
+            "binding_energy": -3926.76210432864,
+            "interface_score": 3509.2751918812496
+        },
+        {
+            "seed": 5,
+            "binding_energy": -7730.703103393067,
+            "interface_score": 7313.216190945676
+        },
+        {
+            "seed": 6,
+            "binding_energy": -7816.8900374905115,
+            "interface_score": 7399.403125043122
+        },
+        {
+            "seed": 7,
+            "binding_energy": -61141.77110145319,
+            "interface_score": 60724.2841890058
+        },
+        {
+            "seed": 8,
+            "binding_energy": -6955.900287874712,
+            "interface_score": 6538.4133754273225
+        },
+        {
+            "seed": 9,
+            "binding_energy": -6643.12995424717,
+            "interface_score": 6225.64304179978
+        }
+    ],
+    "nblys_1mel-Albumin_1AO6": [
+        {
+            "seed": 0,
+            "binding_energy": 59.42054340611912,
+            "interface_score": 1153.4893308389317
+        },
+        {
+            "seed": 1,
+            "binding_energy": 61.54159265030262,
+            "interface_score": 1151.3682815947482
+        },
+        {
+            "seed": 2,
+            "binding_energy": 59.72170576276153,
+            "interface_score": 1153.1881684822893
+        },
+        {
+            "seed": 3,
+            "binding_energy": 76.23506843199425,
+            "interface_score": 1136.6748058130565
+        },
+        {
+            "seed": 4,
+            "binding_energy": 62.84150811670929,
+            "interface_score": 1150.0683661283415
+        },
+        {
+            "seed": 5,
+            "binding_energy": 60.32073058864512,
+            "interface_score": 1152.5891436564057
+        },
+        {
+            "seed": 6,
+            "binding_energy": 65.2144372776254,
+            "interface_score": 1147.6954369674254
+        },
+        {
+            "seed": 7,
+            "binding_energy": 62.63059446807779,
+            "interface_score": 1150.279279776973
+        },
+        {
+            "seed": 8,
+            "binding_energy": 66.60151833336158,
+            "interface_score": 1146.3083559116892
+        },
+        {
+            "seed": 9,
+            "binding_energy": 62.69957083139502,
+            "interface_score": 1150.2103034136558
+        }
+    ],
+    "nblys_1mel-GFP_1B9C": [
+        {
+            "seed": 0,
+            "binding_energy": 2.3325225158088188,
+            "interface_score": 346.01778314527667
+        },
+        {
+            "seed": 1,
+            "binding_energy": 4.6350123739102855e-10,
+            "interface_score": 348.350305660622
+        },
+        {
+            "seed": 2,
+            "binding_energy": 2.3089796741260216e-10,
+            "interface_score": 348.3503056608546
+        },
+        {
+            "seed": 3,
+            "binding_energy": 3.814193405560218e-10,
+            "interface_score": 348.35030566070407
+        },
+        {
+            "seed": 4,
+            "binding_energy": 1.837179297581315e-10,
+            "interface_score": 348.35030566090177
+        },
+        {
+            "seed": 5,
+            "binding_energy": 2.7466739993542433e-10,
+            "interface_score": 348.3503056608108
+        },
+        {
+            "seed": 6,
+            "binding_energy": 0.0737050783501445,
+            "interface_score": 348.27660058273534
+        },
+        {
+            "seed": 7,
+            "binding_energy": 1.3324097380973399e-10,
+            "interface_score": 348.35030566095224
+        },
+        {
+            "seed": 8,
+            "binding_energy": 3.0172486731316894e-10,
+            "interface_score": 348.35030566078376
+        },
+        {
+            "seed": 9,
+            "binding_energy": 2.759179551503621e-10,
+            "interface_score": 348.35030566080957
+        }
+    ],
+    "nblys_1mel-Lysozyme_132L": [
+        {
+            "seed": 0,
+            "binding_energy": 2.2569679458683822e-10,
+            "interface_score": 71.79908932638551
+        },
+        {
+            "seed": 1,
+            "binding_energy": 1.7180923350679222e-10,
+            "interface_score": 71.7990893264394
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.928412984852912e-10,
+            "interface_score": 71.79908932641837
+        },
+        {
+            "seed": 3,
+            "binding_energy": 2.2671997612633277e-10,
+            "interface_score": 71.79908932638449
+        },
+        {
+            "seed": 4,
+            "binding_energy": 4.479919098798746e-05,
+            "interface_score": 71.79904452742022
+        },
+        {
+            "seed": 5,
+            "binding_energy": 0.020703816814858556,
+            "interface_score": 71.77838550979635
+        },
+        {
+            "seed": 6,
+            "binding_energy": 2.721947112149792e-10,
+            "interface_score": 71.79908932633901
+        },
+        {
+            "seed": 7,
+            "binding_energy": 2.709441560000414e-10,
+            "interface_score": 71.79908932634027
+        },
+        {
+            "seed": 8,
+            "binding_energy": 1.98525640371372e-10,
+            "interface_score": 71.79908932641268
+        },
+        {
+            "seed": 9,
+            "binding_energy": 2.4490987016179133e-10,
+            "interface_score": 71.7990893263663
+        }
+    ],
+    "nblys_1mel-NAT_6M17": [
+        {
+            "seed": 0,
+            "binding_energy": 1.737134880386293e-10,
+            "interface_score": 2413.260167353241
+        },
+        {
+            "seed": 1,
+            "binding_energy": 2.396518539171666e-10,
+            "interface_score": 2413.260167353175
+        },
+        {
+            "seed": 2,
+            "binding_energy": 1.3733369996771216e-10,
+            "interface_score": 2413.260167353277
+        },
+        {
+            "seed": 3,
+            "binding_energy": 2.2100721253082156e-10,
+            "interface_score": 2413.2601673531935
+        },
+        {
+            "seed": 4,
+            "binding_energy": 6.320988177321851e-11,
+            "interface_score": 2413.2601673533513
+        },
+        {
+            "seed": 5,
+            "binding_energy": 1.6143530956469476e-10,
+            "interface_score": 2413.260167353253
+        },
+        {
+            "seed": 6,
+            "binding_energy": 1.687112671788782e-10,
+            "interface_score": 2413.260167353246
+        },
+        {
+            "seed": 7,
+            "binding_energy": 1.978150976356119e-10,
+            "interface_score": 2413.2601673532167
+        },
+        {
+            "seed": 8,
+            "binding_energy": 1.9235812942497432e-10,
+            "interface_score": 2413.260167353222
+        },
+        {
+            "seed": 9,
+            "binding_energy": 2.623892214614898e-10,
+            "interface_score": 2413.260167353152
+        }
+    ],
+    "nblys_1mel-SARS_cov2_6LVN": [
+        {
+            "seed": 0,
+            "binding_energy": -1.4210854715202004e-14,
+            "interface_score": -106.04646363373891
+        },
+        {
+            "seed": 1,
+            "binding_energy": 6.865263912914088e-11,
+            "interface_score": -106.04646363380758
+        },
+        {
+            "seed": 2,
+            "binding_energy": 5.3859139370615594e-12,
+            "interface_score": -106.04646363374431
+        },
+        {
+            "seed": 3,
+            "binding_energy": -1.4210854715202004e-14,
+            "interface_score": -106.04646363373891
+        },
+        {
+            "seed": 4,
+            "binding_energy": 3.47739614880993e-11,
+            "interface_score": -106.0464636337737
+        },
+        {
+            "seed": 5,
+            "binding_energy": 6.52278231427772e-12,
+            "interface_score": -106.04646363374545
+        },
+        {
+            "seed": 6,
+            "binding_energy": 2.937383669632254e-11,
+            "interface_score": -106.0464636337683
+        },
+        {
+            "seed": 7,
+            "binding_energy": 6.365041826938977e-11,
+            "interface_score": -106.04646363380257
+        },
+        {
+            "seed": 8,
+            "binding_energy": -1.4210854715202004e-14,
+            "interface_score": -106.04646363373891
+        },
+        {
+            "seed": 9,
+            "binding_energy": -1.4210854715202004e-14,
+            "interface_score": -106.04646363373891
+        }
+    ],
+    "nblys_1mel-albumin_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -10798.285036253557,
+            "interface_score": 9946.85781774387
+        },
+        {
+            "seed": 1,
+            "binding_energy": -188883.23139360812,
+            "interface_score": 188031.80417509843
+        },
+        {
+            "seed": 2,
+            "binding_energy": -10882.478455950157,
+            "interface_score": 10031.051237440468
+        },
+        {
+            "seed": 3,
+            "binding_energy": -163506.85926770125,
+            "interface_score": 162655.43204919156
+        },
+        {
+            "seed": 4,
+            "binding_energy": -159822.11897580375,
+            "interface_score": 158970.69175729406
+        },
+        {
+            "seed": 5,
+            "binding_energy": -13308.640256787305,
+            "interface_score": 12457.213038277618
+        },
+        {
+            "seed": 6,
+            "binding_energy": -134813.52249703842,
+            "interface_score": 133962.09527852872
+        },
+        {
+            "seed": 7,
+            "binding_energy": -160171.14990077226,
+            "interface_score": 159319.72268226257
+        },
+        {
+            "seed": 8,
+            "binding_energy": -160051.92781058585,
+            "interface_score": 159200.50059207616
+        },
+        {
+            "seed": 9,
+            "binding_energy": -12561.459779815308,
+            "interface_score": 11710.03256130562
+        }
+    ],
+    "nblys_1mel-gfp_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -7077.427390305367,
+            "interface_score": 6543.096867336617
+        },
+        {
+            "seed": 1,
+            "binding_energy": -208661.43300944002,
+            "interface_score": 208127.10248647127
+        },
+        {
+            "seed": 2,
+            "binding_energy": -191393.8269767185,
+            "interface_score": 190859.49645374974
+        },
+        {
+            "seed": 3,
+            "binding_energy": -200023.77606720032,
+            "interface_score": 199489.44554423157
+        },
+        {
+            "seed": 4,
+            "binding_energy": -206610.1150725555,
+            "interface_score": 206075.78454958674
+        },
+        {
+            "seed": 5,
+            "binding_energy": -206549.39541796083,
+            "interface_score": 206015.06489499207
+        },
+        {
+            "seed": 6,
+            "binding_energy": -208179.09872926841,
+            "interface_score": 207644.76820629966
+        },
+        {
+            "seed": 7,
+            "binding_energy": -204238.23871931637,
+            "interface_score": 203703.90819634762
+        },
+        {
+            "seed": 8,
+            "binding_energy": -201526.36471056478,
+            "interface_score": 200992.03418759603
+        },
+        {
+            "seed": 9,
+            "binding_energy": -207547.01428916655,
+            "interface_score": 207012.6837661978
+        }
+    ],
+    "nblys_1mel-lysozyme_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -4288.508738056495,
+            "interface_score": 3922.0172773389577
+        },
+        {
+            "seed": 1,
+            "binding_energy": -2173.048279196078,
+            "interface_score": 1806.5568184785407
+        },
+        {
+            "seed": 2,
+            "binding_energy": -7414.886814039776,
+            "interface_score": 7048.395353322239
+        },
+        {
+            "seed": 3,
+            "binding_energy": -4096.147700442537,
+            "interface_score": 3729.6562397249995
+        },
+        {
+            "seed": 4,
+            "binding_energy": -9488.232366674292,
+            "interface_score": 9121.740905956754
+        },
+        {
+            "seed": 5,
+            "binding_energy": -4154.540243312622,
+            "interface_score": 3788.0487825950845
+        },
+        {
+            "seed": 6,
+            "binding_energy": -2347.418290331395,
+            "interface_score": 1980.9268296138578
+        },
+        {
+            "seed": 7,
+            "binding_energy": -6637.3961326535855,
+            "interface_score": 6270.9046719360485
+        },
+        {
+            "seed": 8,
+            "binding_energy": -9489.705005437541,
+            "interface_score": 9123.213544720003
+        },
+        {
+            "seed": 9,
+            "binding_energy": -4511.780500442505,
+            "interface_score": 4145.2890397249685
+        }
+    ],
+    "nblys_1mel-mCherry_1G7K": [
+        {
+            "seed": 0,
+            "binding_energy": 6.96672941558063e-10,
+            "interface_score": 270.32210524120984
+        },
+        {
+            "seed": 1,
+            "binding_energy": 7.929656931082718e-10,
+            "interface_score": 270.32210524111355
+        },
+        {
+            "seed": 2,
+            "binding_energy": 7.207745511550456e-10,
+            "interface_score": 270.32210524118574
+        },
+        {
+            "seed": 3,
+            "binding_energy": 8.154756869771518e-10,
+            "interface_score": 270.32210524109104
+        },
+        {
+            "seed": 4,
+            "binding_energy": 7.506741894758306e-10,
+            "interface_score": 270.32210524115584
+        },
+        {
+            "seed": 5,
+            "binding_energy": 7.444214134011418e-10,
+            "interface_score": 270.3221052411621
+        },
+        {
+            "seed": 6,
+            "binding_energy": 8.52423909236677e-10,
+            "interface_score": 270.3221052410541
+        },
+        {
+            "seed": 7,
+            "binding_energy": 8.188862921088003e-10,
+            "interface_score": 270.3221052410876
+        },
+        {
+            "seed": 8,
+            "binding_energy": 8.293454811791889e-10,
+            "interface_score": 270.32210524107717
+        },
+        {
+            "seed": 9,
+            "binding_energy": 8.93578544491902e-10,
+            "interface_score": 270.32210524101293
+        }
+    ],
+    "nblys_1mel-mcherry_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -8779.820164665785,
+            "interface_score": 8327.623190887934
+        },
+        {
+            "seed": 1,
+            "binding_energy": -7854.6034477881985,
+            "interface_score": 7402.406474010348
+        },
+        {
+            "seed": 2,
+            "binding_energy": -8883.170116345067,
+            "interface_score": 8430.973142567216
+        },
+        {
+            "seed": 3,
+            "binding_energy": -8819.432850383342,
+            "interface_score": 8367.235876605491
+        },
+        {
+            "seed": 4,
+            "binding_energy": -10627.065672825243,
+            "interface_score": 10174.868699047393
+        },
+        {
+            "seed": 5,
+            "binding_energy": -7376.787658991329,
+            "interface_score": 6924.5906852134785
+        },
+        {
+            "seed": 6,
+            "binding_energy": -9354.600786517307,
+            "interface_score": 8902.403812739456
+        },
+        {
+            "seed": 7,
+            "binding_energy": -8779.604104539236,
+            "interface_score": 8327.407130761385
+        },
+        {
+            "seed": 8,
+            "binding_energy": -8703.484119297931,
+            "interface_score": 8251.28714552008
+        },
+        {
+            "seed": 9,
+            "binding_energy": -7408.096080749691,
+            "interface_score": 6955.89910697184
+        }
+    ],
+    "nblys_1mel-nat_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -14186.695471074132,
+            "interface_score": 13572.509862333693
+        },
+        {
+            "seed": 1,
+            "binding_energy": -13645.276911344003,
+            "interface_score": 13031.091302603563
+        },
+        {
+            "seed": 2,
+            "binding_energy": -13516.751785768833,
+            "interface_score": 12902.566177028393
+        },
+        {
+            "seed": 3,
+            "binding_energy": -13639.34912753341,
+            "interface_score": 13025.163518792971
+        },
+        {
+            "seed": 4,
+            "binding_energy": -11858.424061866861,
+            "interface_score": 11244.238453126422
+        },
+        {
+            "seed": 5,
+            "binding_energy": -232148.54612856513,
+            "interface_score": 231534.3605198247
+        },
+        {
+            "seed": 6,
+            "binding_energy": -132476.17876162686,
+            "interface_score": 131861.99315288643
+        },
+        {
+            "seed": 7,
+            "binding_energy": -13667.172967071301,
+            "interface_score": 13052.987358330862
+        },
+        {
+            "seed": 8,
+            "binding_energy": -17691.848840253584,
+            "interface_score": 17077.663231513146
+        },
+        {
+            "seed": 9,
+            "binding_energy": -13147.770998981814,
+            "interface_score": 12533.585390241375
+        }
+    ],
+    "nblys_1mel-sars_cov2_rbc_alphafold3": [
+        {
+            "seed": 0,
+            "binding_energy": -6603.269736436915,
+            "interface_score": 6326.926422190866
+        },
+        {
+            "seed": 1,
+            "binding_energy": -154048.96713419742,
+            "interface_score": 153772.62381995138
+        },
+        {
+            "seed": 2,
+            "binding_energy": -3653.064111118685,
+            "interface_score": 3376.720796872636
+        },
+        {
+            "seed": 3,
+            "binding_energy": -159373.0491877031,
+            "interface_score": 159096.70587345705
+        },
+        {
+            "seed": 4,
+            "binding_energy": -151946.91006876918,
+            "interface_score": 151670.56675452314
+        },
+        {
+            "seed": 5,
+            "binding_energy": -156211.48231802456,
+            "interface_score": 155935.13900377852
+        },
+        {
+            "seed": 6,
+            "binding_energy": -157663.34492501826,
+            "interface_score": 157387.00161077222
+        },
+        {
+            "seed": 7,
+            "binding_energy": -154858.63493506119,
+            "interface_score": 154582.29162081514
+        },
+        {
+            "seed": 8,
+            "binding_energy": -163409.3015311554,
+            "interface_score": 163132.95821690935
+        },
+        {
+            "seed": 9,
+            "binding_energy": -156325.6474604276,
+            "interface_score": 156049.30414618156
+        }
+    ]
+}

@@ -9,7 +9,10 @@ This project compares different computational tools for evaluating nanobody-anti
 - **AlphaFold2 Multimer v3** - Structure prediction for protein complexes
 - **AlphaFold3** - Latest version for complex prediction, uses MSE over multiple seeds as well as prodigy for binding energy estimation
 - **Rosetta** - Classical molecular modeling suite
-- **Additional tools** - AbNatiV (nanobody scoring), IgFold (structure prediction)
+- **Subcellular localization** - SLPred (https://github.com/cansyl/SLPred), SherLoc2 (https://github.com/KohlbacherLab/SherLoc2)
+(comment: SLPred Windows: sed -i 's/python3 /python /g' *.py download_extract_data.sh)
+- **Additional tools** - AbNatiV (nanobody scoring), IgFold (structure prediction), Solubis (stability and solubility assessment, http://solubis.switchlab.org).
+
 
 **The goal:** Figure out which computational method gives the most reliable predictions for nanobody-antigen binding by testing them all on the same dataset and comparing results.
 
