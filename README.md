@@ -7,7 +7,7 @@ This project compares different computational tools for evaluating nanobody-anti
 **Tools being compared:**
 - **HADDOCK 2.4** - Protein-protein docking webserver
 - **AlphaFold2 Multimer v3** - Structure prediction for protein complexes
-- **AlphaFold3** - Latest version for complex prediction
+- **AlphaFold3** - Latest version for complex prediction, uses MSE over multiple seeds as well as prodigy for binding energy estimation
 - **Rosetta** - Classical molecular modeling suite
 - **Additional tools** - AbNatiV (nanobody scoring), IgFold (structure prediction)
 
@@ -35,3 +35,22 @@ pip install -r requirements.txt
 
 # Verify installation
 python -c "import pandas, matplotlib, seaborn, numpy; print('All packages installed successfully')"
+```
+
+4. **Install PRODIGY (optional but recommended):**
+   ```bash
+   pip install prodigy-protein
+   ```
+
+5. **Install the package in development mode:**
+   ```bash
+   pip install -e .
+   ```
+
+### Verifying Installation
+
+You can verify that everything is installed correctly by running:
+
+```bash
+python -m alphafold3_eval.cli --check
+```
