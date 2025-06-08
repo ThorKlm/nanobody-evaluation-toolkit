@@ -1,0 +1,378 @@
+nbGFP_GFP
+https://rascar.science.uu.nl/haddock2.4/result/8625168504/501578-nbGFP_GFP
+Cluster 1
+
+HADDOCK score	243.0 +/- 47.1
+Cluster size	4
+RMSD from the overall lowest-energy structure	21.3 +/- 0.1
+Van der Waals energy	-72.2 +/- 2.7
+Electrostatic energy	-436.2 +/- 70.6
+Desolvation energy	2.9 +/- 2.6
+Restraints violation energy	3995.9 +/- 311.7
+Buried Surface Area	2583.9 +/- 122.8
+Z-Score	-1.0
+
+
+nbGFP_mCherry
+https://rascar.science.uu.nl/haddock2.4/result/8625168504/501579-nbGFP_mCherry
+Cluster 5
+
+HADDOCK score	85.2 +/- 7.0
+Cluster size	4
+RMSD from the overall lowest-energy structure	12.0 +/- 0.1
+Van der Waals energy	-61.1 +/- 3.0
+Electrostatic energy	-714.9 +/- 49.4
+Desolvation energy	15.5 +/- 5.1
+Restraints violation energy	2737.8 +/- 94.8
+Buried Surface Area	2795.0 +/- 81.9
+Z-Score	-1.8
+
+
+nbGFP_SARS
+https://rascar.science.uu.nl/haddock2.4/result/8625168504/501580-nbGFP_SARS
+Cluster 9
+
+HADDOCK score	62.4 +/- 14.0
+Cluster size	6
+RMSD from the overall lowest-energy structure	13.6 +/- 0.1
+Van der Waals energy	-55.8 +/- 8.5
+Electrostatic energy	-167.7 +/- 54.7
+Desolvation energy	0.4 +/- 1.2
+Restraints violation energy	1512.8 +/- 105.5
+Buried Surface Area	1899.0 +/- 114.5
+Z-Score	-1.8
+
+
+nbGFP_LYS
+https://rascar.science.uu.nl/haddock2.4/result/8625168504/501582-nbGFP_LYS
+Cluster 1
+
+HADDOCK score	181.4 +/- 20.4
+Cluster size	8
+RMSD from the overall lowest-energy structure	17.8 +/- 0.1
+Van der Waals energy	-73.1 +/- 7.5
+Electrostatic energy	-238.5 +/- 19.9
+Desolvation energy	7.8 +/- 1.6
+Restraints violation energy	2944.1 +/- 207.6
+Buried Surface Area	2085.3 +/- 78.5
+Z-Score	-1.7
+
+
+nbGFP_ALB
+https://rascar.science.uu.nl/haddock2.4/result/8625168504/501583-nbGFP_ALB
+Cluster 2
+
+HADDOCK score	12.5 +/- 4.8
+Cluster size	4
+RMSD from the overall lowest-energy structure	14.6 +/- 0.1
+Van der Waals energy	-69.5 +/- 4.8
+Electrostatic energy	-264.3 +/- 28.0
+Desolvation energy	2.5 +/- 2.6
+Restraints violation energy	1323.2 +/- 79.6
+Buried Surface Area	2382.7 +/- 123.3
+Z-Score	-1.0
+
+
+nbMCherry_GFP
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501584-nbMCherry_GFP
+Cluster 2
+
+HADDOCK score	283.0 +/- 12.5
+Cluster size	8
+RMSD from the overall lowest-energy structure	19.5 +/- 0.1
+Van der Waals energy	-50.7 +/- 7.9
+Electrostatic energy	-440.9 +/- 23.3
+Desolvation energy	7.6 +/- 3.0
+Restraints violation energy	4142.4 +/- 192.6
+Buried Surface Area	2251.5 +/- 76.6
+Z-Score	-1.2
+
+
+nbMCherry_mCherry
+https://rascar.science.uu.nl/haddock2.4/result/8625168504/501586-nbMCherry_mCherry
+Cluster 1
+
+HADDOCK score	20.0 +/- 2.9
+Cluster size	8
+RMSD from the overall lowest-energy structure	13.5 +/- 0.1
+Van der Waals energy	-50.5 +/- 3.2
+Electrostatic energy	-282.7 +/- 14.2
+Desolvation energy	15.3 +/- 2.2
+Restraints violation energy	1117.6 +/- 11.6
+Buried Surface Area	1903.8 +/- 122.8
+Z-Score	-1.9
+
+
+nbMCherry_SARS
+https://rascar.science.uu.nl/haddock2.4/result/8625168504/501587-nbMCherry_SARS
+Cluster 1
+
+HADDOCK score	14.5 +/- 19.4
+Cluster size	7
+RMSD from the overall lowest-energy structure	5.5 +/- 0.1
+Van der Waals energy	-73.3 +/- 6.2
+Electrostatic energy	-113.5 +/- 29.2
+Desolvation energy	-25.8 +/- 6.0
+Restraints violation energy	1362.6 +/- 95.8
+Buried Surface Area	2117.4 +/- 127.3
+Z-Score	-1.2
+
+
+nbMCherry_LYS
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501588-nbMCherry_LYS
+Cluster 1
+
+HADDOCK score	163.9 +/- 4.0
+Cluster size	9
+RMSD from the overall lowest-energy structure	6.9 +/- 0.1
+Van der Waals energy	-65.2 +/- 8.2
+Electrostatic energy	-155.4 +/- 26.8
+Desolvation energy	2.9 +/- 1.2
+Restraints violation energy	2573.3 +/- 73.6
+Buried Surface Area	2137.4 +/- 81.6
+Z-Score	-1.0
+
+
+nbMCherry_ALB
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501589-nbMCherry_ALB
+Cluster 3
+
+HADDOCK score	-35.5 +/- 9.2
+Cluster size	4
+RMSD from the overall lowest-energy structure	10.9 +/- 0.1
+Van der Waals energy	-83.5 +/- 2.1
+Electrostatic energy	-421.5 +/- 21.3
+Desolvation energy	4.2 +/- 1.6
+Restraints violation energy	1280.4 +/- 39.6
+Buried Surface Area	2946.2 +/- 138.0
+Z-Score	-1.0
+
+
+nbSARS_GFP
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501590-nbSARS_GFP
+Cluster 1
+
+HADDOCK score	182.8 +/- 9.0
+Cluster size	9
+RMSD from the overall lowest-energy structure	0.4 +/- 0.3
+Van der Waals energy	-92.1 +/- 4.0
+Electrostatic energy	-425.6 +/- 58.8
+Desolvation energy	-9.0 +/- 3.5
+Restraints violation energy	3690.7 +/- 182.7
+Buried Surface Area	2882.8 +/- 85.7
+Z-Score	-1.8
+
+
+nbSARS_mCherry
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501591-nbSARS_mCherry
+Cluster 1
+
+HADDOCK score	-15.6 +/- 11.1
+Cluster size	6
+RMSD from the overall lowest-energy structure	9.2 +/- 0.2
+Van der Waals energy	-80.6 +/- 5.9
+Electrostatic energy	-224.2 +/- 32.4
+Desolvation energy	-0.9 +/- 2.5
+Restraints violation energy	1108.3 +/- 177.2
+Buried Surface Area	2239.7 +/- 95.3
+Z-Score	-1.8
+
+
+nbSARS_LYS
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501592-nbSARS_LYS
+Cluster 4
+
+HADDOCK score	128.9 +/- 13.4
+Cluster size	4
+RMSD from the overall lowest-energy structure	17.7 +/- 0.1
+Van der Waals energy	-64.5 +/- 7.6
+Electrostatic energy	-333.8 +/- 22.8
+Desolvation energy	0.8 +/- 4.3
+Restraints violation energy	2594.1 +/- 68.9
+Buried Surface Area	2183.4 +/- 92.1
+Z-Score	-1.2
+
+
+nbSARS_ALB
+https://rascar.science.uu.nl/haddock2.4/result/8625168504/501594-nbSARS_ALB
+Cluster 20
+
+HADDOCK score	-67.3 +/- 4.1
+Cluster size	2
+RMSD from the overall lowest-energy structure	10.4 +/- 0.0
+Van der Waals energy	-91.7 +/- 3.1
+Electrostatic energy	-413.3 +/- 20.5
+Desolvation energy	10.1 +/- 1.0
+Restraints violation energy	969.0 +/- 61.1
+Buried Surface Area	3544.7 +/- 75.1
+Z-Score	-1.9
+
+
+nbLYS_GFP
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501595-nbLYS_GFP
+Cluster 4
+
+HADDOCK score	-3.8 +/- 15.4
+Cluster size	5
+RMSD from the overall lowest-energy structure	5.6 +/- 0.1
+Van der Waals energy	-62.4 +/- 7.3
+Electrostatic energy	-462.3 +/- 61.5
+Desolvation energy	15.0 +/- 1.1
+Restraints violation energy	1360.8 +/- 71.4
+Buried Surface Area	2136.2 +/- 72.9
+Z-Score	-1.5
+
+
+nbLYS_mCherry
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501596-nbLYS_mCherry
+Cluster 7
+
+HADDOCK score	-0.9 +/- 29.3
+Cluster size	4
+RMSD from the overall lowest-energy structure	0.8 +/- 0.9
+Van der Waals energy	-69.5 +/- 13.0
+Electrostatic energy	-366.0 +/- 39.2
+Desolvation energy	5.5 +/- 1.7
+Restraints violation energy	1363.0 +/- 149.0
+Buried Surface Area	2198.0 +/- 218.4
+Z-Score	-1.7
+
+
+nbSARS_SARS
+https://rascar.science.uu.nl/haddock2.4/result/8625168504/501597-nbSARS_SARS
+Cluster 2
+
+HADDOCK score	-5.1 +/- 12.1
+Cluster size	6
+RMSD from the overall lowest-energy structure	14.1 +/- 0.1
+Van der Waals energy	-65.6 +/- 3.4
+Electrostatic energy	-190.3 +/- 32.9
+Desolvation energy	-17.3 +/- 1.0
+Restraints violation energy	1158.9 +/- 62.3
+Buried Surface Area	1735.1 +/- 34.0
+Z-Score	-1.4
+
+
+nbLYS_SARS
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501598-nbLYS_SARS
+Cluster 8
+
+HADDOCK score	8.7 +/- 20.1
+Cluster size	4
+RMSD from the overall lowest-energy structure	14.7 +/- 0.4
+Van der Waals energy	-83.7 +/- 11.5
+Electrostatic energy	-262.1 +/- 25.4
+Desolvation energy	7.1 +/- 7.5
+Restraints violation energy	1376.8 +/- 128.6
+Buried Surface Area	2424.7 +/- 294.0
+Z-Score	-1.8
+
+
+nbLYS_LYS
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501599-nbLYS_LYS
+Cluster 1
+
+HADDOCK score	174.7 +/- 6.3
+Cluster size	11
+RMSD from the overall lowest-energy structure	10.7 +/- 0.1
+Van der Waals energy	-72.1 +/- 5.9
+Electrostatic energy	-212.3 +/- 70.3
+Desolvation energy	10.1 +/- 4.8
+Restraints violation energy	2791.3 +/- 147.8
+Buried Surface Area	2121.5 +/- 190.2
+Z-Score	-1.3
+
+
+nbLYS_ALB
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501600-nbLYS_ALB
+Cluster 1
+
+HADDOCK score	8.7 +/- 14.9
+Cluster size	6
+RMSD from the overall lowest-energy structure	11.1 +/- 0.1
+Van der Waals energy	-57.2 +/- 5.6
+Electrostatic energy	-515.0 +/- 55.7
+Desolvation energy	31.4 +/- 5.2
+Restraints violation energy	1375.1 +/- 115.1
+Buried Surface Area	2395.0 +/- 127.7
+Z-Score	-1.0
+
+
+nbALB_GFP
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501601-nbALB_GFP
+Cluster 1
+
+HADDOCK score	27.1 +/- 6.3
+Cluster size	20
+RMSD from the overall lowest-energy structure	4.7 +/- 0.1
+Van der Waals energy	-53.7 +/- 2.7
+Electrostatic energy	-239.5 +/- 18.2
+Desolvation energy	4.7 +/- 0.4
+Restraints violation energy	1240.1 +/- 85.9
+Buried Surface Area	1789.2 +/- 16.5
+Z-Score	-1.7
+
+
+nbALB_mCherry
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501602-nbALB_mCherry
+Cluster 7
+
+HADDOCK score	34.1 +/- 22.6
+Cluster size	4
+RMSD from the overall lowest-energy structure	13.9 +/- 0.1
+Van der Waals energy	-53.2 +/- 7.0
+Electrostatic energy	-298.9 +/- 9.9
+Desolvation energy	10.8 +/- 1.6
+Restraints violation energy	1363.5 +/- 151.0
+Buried Surface Area	1771.2 +/- 91.0
+Z-Score	-1.1
+
+
+nbALB_SARS
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501603-nbALB_SARS
+Cluster 4
+
+HADDOCK score	6.1 +/- 5.4
+Cluster size	5
+RMSD from the overall lowest-energy structure	24.8 +/- 0.1
+Van der Waals energy	-85.7 +/- 7.9
+Electrostatic energy	-90.8 +/- 10.2
+Desolvation energy	-23.7 +/- 2.6
+Restraints violation energy	1335.7 +/- 92.8
+Buried Surface Area	2201.6 +/- 95.8
+Z-Score	-1.4
+
+
+nbALB_LYS
+https://rascar.science.uu.nl/haddock2.4/run/8625168504/501605-nbALB_LYS
+Cluster 4
+
+HADDOCK score	144.1 +/- 18.7
+Cluster size	5
+RMSD from the overall lowest-energy structure	0.6 +/- 0.4
+Van der Waals energy	-94.5 +/- 6.1
+Electrostatic energy	-185.0 +/- 34.9
+Desolvation energy	-6.5 +/- 3.4
+Restraints violation energy	2820.8 +/- 218.2
+Buried Surface Area	2436.2 +/- 89.4
+Z-Score	-1.3
+
+
+nbALB_ALB
+https://rascar.science.uu.nl/haddock2.4/result/8625168504/501607-nbALB_ALB
+Cluster 17
+
+HADDOCK score	-41.9 +/- 9.7
+Cluster size	2
+RMSD from the overall lowest-energy structure	16.1 +/- 0.0
+Van der Waals energy	-55.6 +/- 1.4
+Electrostatic energy	-657.1 +/- 3.7
+Desolvation energy	22.4 +/- 2.0
+Restraints violation energy	1227.3 +/- 139.1
+Buried Surface Area	2896.2 +/- 84.9
+Z-Score	-1.7
+
+
+
+
+
