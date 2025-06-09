@@ -147,7 +147,7 @@ Interactive heatmap visualization in the notebook
 Sadly for the 6x6 experiments conducted here, 
 there was no significant trend w.r.t. the true-positive diagonal when compared to false positives.
 
-![Binding Matrix](haddock2_4_webservice_evaluation/binding_matrix_haddock_2_4.png)
+![Binding Matrix](binding_matrix_haddock_2_4.png)
 
 Confusion matrix of nanobody antigen pairs with true matches on the diagonal
 and some slight structural similarity/ evolutionary proximity between GFP and mCherry.
