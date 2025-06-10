@@ -71,6 +71,10 @@ nanobody-evaluation-toolkit/
    - Containerized bioinformatics tool for eukaryotic protein localization
    - Multiple prediction methods including SVMTarget, MotifSearch, GOLoc
 
+6. **[DeepLoc2.1 Analysis](README_DeepLoc_2_1.md)** - Deep learning subcellular localization prediction
+   - Web-based tool for eukaryotic protein localization using multi-label classification
+   - Predicts 10 cellular compartments and 4 membrane association types
+
 ## Workflow Implementation
 
 ### Structure Prediction (Linux/WSL)
@@ -158,3 +162,6 @@ MAbs 2025 doi.org/10.1080/19420862.2024.2442750
 - Kastritis, Panagiotis L., et al. "Proteins feel more than they see: fine-tuning of binding affinity by properties of the non-interacting surface." Journal of molecular biology 426.14 (2014): 2632-2652.
 - Mirdita M, Schütze K, Moriwaki Y, Heo L, Ovchinnikov S, Steinegger M. ColabFold: Making protein folding accessible to all. *Nature Methods*, 2022
 - Evans R, O'Neill M, Pritzel A, et al. Protein complex prediction with AlphaFold-Multimer. *bioRxiv* 2021
+- Almagro Armenteros, J. J., Sønderby, C. K., Sønderby, S. K., Nielsen, H., & Winther, O. (2017). DeepLoc: prediction of protein subcellular localization using deep learning. Bioinformatics, 33(21), 3387-3395.
+- Thumuluri, V., Almagro Armenteros, J. J., Johansen, A. R., Nielsen, H., & Winther, O. (2022). DeepLoc 2.0: multi-label subcellular localization prediction using protein language models. Nucleic acids research, 50(W1), W228-W234.
+- Ødum, M. T., Teufel, F., Thumuluri, V., Almagro Armenteros, J. J., Johansen, A. R., Winther, O., & Nielsen, H. (2024). DeepLoc 2.1: multi-label membrane protein type prediction using protein language models. Nucleic Acids Research, 52(W1), W215-W220.
