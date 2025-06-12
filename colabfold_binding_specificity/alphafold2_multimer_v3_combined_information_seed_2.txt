@@ -1,0 +1,328 @@
+Running with SEED = 2
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 6 FASTA files
+Jobs created: 6
+First job: nbSARS_7f5h_GFP
+
+Processing nbSARS_7f5h_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Error running job nbSARS_7f5h_GFP: cannot import name 'intp' from 'numpy._core' (/usr/local/lib/python3.11/dist-packages/numpy/_core/__init__.py)
+
+Processing nbSARS_7f5h_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Error running job nbSARS_7f5h_mCherry: cannot import name 'intp' from 'numpy._core' (/usr/local/lib/python3.11/dist-packages/numpy/_core/__init__.py)
+
+Processing nbSARS_7f5h_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Error running job nbSARS_7f5h_SARS-Cov2-rbc: cannot import name 'intp' from 'numpy._core' (/usr/local/lib/python3.11/dist-packages/numpy/_core/__init__.py)
+
+Processing nbSARS_7f5h_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Error running job nbSARS_7f5h_Lysozyme: cannot import name 'intp' from 'numpy._core' (/usr/local/lib/python3.11/dist-packages/numpy/_core/__init__.py)
+
+Processing nbSARS_7f5h_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Error running job nbSARS_7f5h_Albumin: cannot import name 'intp' from 'numpy._core' (/usr/local/lib/python3.11/dist-packages/numpy/_core/__init__.py)
+
+Processing nbSARS_7f5h_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+Error running job nbSARS_7f5h_NAT: cannot import name 'intp' from 'numpy._core' (/usr/local/lib/python3.11/dist-packages/numpy/_core/__init__.py)
+
+
+
+
+Running with SEED = 2
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 6 FASTA files
+Jobs created: 6
+First job: nbmCherry_8ilx_GFP
+
+Processing nbmCherry_8ilx_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 92.3, 'max_ptm': 0.866, 'max_iptm': 0.752}
+Binding score: 0.8033
+
+Processing nbmCherry_8ilx_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 90.9, 'max_ptm': 0.812, 'max_iptm': 0.671}
+Binding score: 0.7371
+
+Processing nbmCherry_8ilx_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 82.2, 'max_ptm': 0.618, 'max_iptm': 0.219}
+Binding score: 0.39899999999999997
+
+Processing nbmCherry_8ilx_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 88.4, 'max_ptm': 0.598, 'max_iptm': 0.253}
+Binding score: 0.4196
+
+Processing nbmCherry_8ilx_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:03 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.1, 'max_ptm': 0.754, 'max_iptm': 0.163}
+Binding score: 0.41009999999999996
+
+Processing nbmCherry_8ilx_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:06 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+Parsed metrics: {'mean_plddt': 84.6, 'max_ptm': 0.792, 'max_iptm': 0.292}
+Binding score: 0.4974
+
+
+
+
+
+Running with SEED = 2
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 6 FASTA files
+Jobs created: 6
+First job: nbNAT_8zoy_GFP
+
+Processing nbNAT_8zoy_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 87.4, 'max_ptm': 0.661, 'max_iptm': 0.152}
+Binding score: 0.3769
+
+Processing nbNAT_8zoy_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 85.2, 'max_ptm': 0.629, 'max_iptm': 0.151}
+Binding score: 0.3645
+
+Processing nbNAT_8zoy_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 82.6, 'max_ptm': 0.626, 'max_iptm': 0.205}
+Binding score: 0.39339999999999997
+
+Processing nbNAT_8zoy_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 89.9, 'max_ptm': 0.601, 'max_iptm': 0.25}
+Binding score: 0.4202
+
+Processing nbNAT_8zoy_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.2, 'max_ptm': 0.756, 'max_iptm': 0.178}
+Binding score: 0.4198
+
+Processing nbNAT_8zoy_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+Parsed metrics: {'mean_plddt': 83.1, 'max_ptm': 0.777, 'max_iptm': 0.23}
+Binding score: 0.4542
+
+
+
+Running with SEED = 2
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 6 FASTA files
+Jobs created: 6
+First job: nbALB_8y9t_GFP
+
+Processing nbALB_8y9t_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.6, 'max_ptm': 0.652, 'max_iptm': 0.192}
+Binding score: 0.3974
+
+Processing nbALB_8y9t_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 85.2, 'max_ptm': 0.642, 'max_iptm': 0.199}
+Binding score: 0.3972
+
+Processing nbALB_8y9t_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 81.1, 'max_ptm': 0.607, 'max_iptm': 0.172}
+Binding score: 0.3664
+
+Processing nbALB_8y9t_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:03 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 87.1, 'max_ptm': 0.549, 'max_iptm': 0.185}
+Binding score: 0.3628
+
+Processing nbALB_8y9t_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 92.2, 'max_ptm': 0.889, 'max_iptm': 0.883}
+Binding score: 0.8887
+
+Processing nbALB_8y9t_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:05 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+Parsed metrics: {'mean_plddt': 81.4, 'max_ptm': 0.763, 'max_iptm': 0.23}
+Binding score: 0.44830000000000003
+
+
+
+
+
+Running with SEED = 2
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 6 FASTA files
+Jobs created: 6
+First job: nbGFP_6xzf_GFP
+
+Processing nbGFP_6xzf_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 91.9, 'max_ptm': 0.861, 'max_iptm': 0.802}
+Binding score: 0.8314
+
+Processing nbGFP_6xzf_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 84.4, 'max_ptm': 0.634, 'max_iptm': 0.204}
+Binding score: 0.397
+
+Processing nbGFP_6xzf_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 79.5, 'max_ptm': 0.602, 'max_iptm': 0.182}
+Binding score: 0.36929999999999996
+
+Processing nbGFP_6xzf_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 85.4, 'max_ptm': 0.54, 'max_iptm': 0.202}
+Binding score: 0.36860000000000004
+
+
+Running with SEED = 2
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 2 FASTA files
+Jobs created: 2
+First job: nbGFP_6xzf_Albumin
+
+Processing nbGFP_6xzf_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.1, 'max_ptm': 0.763, 'max_iptm': 0.171}
+Binding score: 0.4176
+
+Processing nbGFP_6xzf_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+Parsed metrics: {'mean_plddt': 83.0, 'max_ptm': 0.769, 'max_iptm': 0.218}
+Binding score: 0.4445
+
+
+
+
+Running with SEED = 2
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 6 FASTA files
+Jobs created: 6
+First job: nblys_1mel_GFP
+
+Processing nblys_1mel_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 85.8, 'max_ptm': 0.646, 'max_iptm': 0.192}
+Binding score: 0.3948
+
+Processing nblys_1mel_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 84.7, 'max_ptm': 0.619, 'max_iptm': 0.165}
+Binding score: 0.3694
+
+Processing nblys_1mel_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 82.3, 'max_ptm': 0.621, 'max_iptm': 0.227}
+Binding score: 0.4048
+
+Running with SEED = 2
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 3 FASTA files
+Jobs created: 3
+First job: nblys_1mel_Lysozyme
+
+Processing nblys_1mel_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 87.9, 'max_ptm': 0.588, 'max_iptm': 0.254}
+Binding score: 0.41669999999999996
+
+Processing nblys_1mel_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.9, 'max_ptm': 0.758, 'max_iptm': 0.191}
+Binding score: 0.4289
+
+Processing nblys_1mel_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+Parsed metrics: {'mean_plddt': 83.6, 'max_ptm': 0.768, 'max_iptm': 0.238}
+Binding score: 0.4568
+
+
+'''
+Running with SEED = 2
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 6 FASTA files
+Jobs created: 6
+First job: nbSARS_7f5h_GFP
+
+Processing nbSARS_7f5h_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.1, 'max_ptm': 0.653, 'max_iptm': 0.16}
+Binding score: 0.378
+
+Processing nbSARS_7f5h_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 85.2, 'max_ptm': 0.637, 'max_iptm': 0.167}
+Binding score: 0.3765
+
+Processing nbSARS_7f5h_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 79.4, 'max_ptm': 0.616, 'max_iptm': 0.155}
+Binding score: 0.3572
+
+Processing nbSARS_7f5h_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 91.5, 'max_ptm': 0.656, 'max_iptm': 0.381}
+Binding score: 0.5169
+
+Processing nbSARS_7f5h_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.4, 'max_ptm': 0.763, 'max_iptm': 0.165}
+Binding score: 0.4143
+
+Processing nbSARS_7f5h_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+Parsed metrics: {'mean_plddt': 84.4, 'max_ptm': 0.781, 'max_iptm': 0.25}
+Binding score: 0.4687
+'''

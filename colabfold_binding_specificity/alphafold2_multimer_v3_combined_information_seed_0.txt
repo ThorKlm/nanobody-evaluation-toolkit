@@ -259,17 +259,6 @@ COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining
 SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]📊 Parsed metrics: {'mean_plddt': 86.9, 'max_ptm': 0.655, 'max_iptm': 0.154}
 ⭐ Binding score: 0.3758
 
-▶ Processing nbNAT_8zoy_mCherry...
-COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
-COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
-SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]📊 Parsed metrics: {'mean_plddt': 86.1, 'max_ptm': 0.637, 'max_iptm': 0.159}
-⭐ Binding score: 0.3726
-
-▶ Processing nbNAT_8zoy_SARS-Cov2-rbc...
-COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
-COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
-
-✅ Created 5 FASTA files
 
 ▶ Processing nbNAT_8zoy_mCherry...
 COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
