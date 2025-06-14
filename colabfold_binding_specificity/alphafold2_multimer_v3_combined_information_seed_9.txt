@@ -1,0 +1,260 @@
+
+
+'''
+Running with SEED = 9
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 12 FASTA files
+Jobs created: 12
+First job: nbGFP_6xzf_GFP
+
+Processing nbGFP_6xzf_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.2, 'max_ptm': 0.644, 'max_iptm': 0.171}
+Binding score: 0.382
+
+Processing nbGFP_6xzf_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 83.4, 'max_ptm': 0.619, 'max_iptm': 0.169}
+Binding score: 0.37050000000000005
+
+Processing nbGFP_6xzf_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 84.9, 'max_ptm': 0.779, 'max_iptm': 0.614}
+Binding score: 0.6869999999999999
+
+Processing nbGFP_6xzf_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.3, 'max_ptm': 0.54, 'max_iptm': 0.19}
+Binding score: 0.3623
+
+Processing nbGFP_6xzf_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 85.8, 'max_ptm': 0.762, 'max_iptm': 0.166}
+Binding score: 0.414
+
+Processing nbGFP_6xzf_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 82.6, 'max_ptm': 0.767, 'max_iptm': 0.218}
+Binding score: 0.4435
+
+
+
+
+
+Processing nbmCherry_8ilx_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 93.4, 'max_ptm': 0.88, 'max_iptm': 0.805}
+Binding score: 0.8404
+
+Processing nbmCherry_8ilx_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 90.9, 'max_ptm': 0.811, 'max_iptm': 0.664}
+Binding score: 0.7326
+
+Processing nbmCherry_8ilx_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 83.9, 'max_ptm': 0.629, 'max_iptm': 0.221}
+Binding score: 0.4052
+
+Processing nbmCherry_8ilx_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 89.2, 'max_ptm': 0.585, 'max_iptm': 0.231}
+Binding score: 0.4033
+
+Processing nbmCherry_8ilx_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 87.2, 'max_ptm': 0.765, 'max_iptm': 0.163}
+Binding score: 0.4145
+
+Processing nbmCherry_8ilx_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+Parsed metrics: {'mean_plddt': 83.2, 'max_ptm': 0.774, 'max_iptm': 0.247}
+Binding score: 0.46359999999999996
+
+
+
+
+
+Running with SEED = 9
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 12 FASTA files
+Jobs created: 12
+First job: nbSARS_7f5h_GFP
+
+Processing nbSARS_7f5h_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.6, 'max_ptm': 0.657, 'max_iptm': 0.155}
+Binding score: 0.37670000000000003
+
+Processing nbSARS_7f5h_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 85.9, 'max_ptm': 0.635, 'max_iptm': 0.154}
+Binding score: 0.3688
+
+Processing nbSARS_7f5h_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 79.2, 'max_ptm': 0.604, 'max_iptm': 0.134}
+Binding score: 0.3408
+
+Processing nbSARS_7f5h_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 91.2, 'max_ptm': 0.653, 'max_iptm': 0.377}
+Binding score: 0.5133
+
+Processing nbSARS_7f5h_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.4, 'max_ptm': 0.765, 'max_iptm': 0.163}
+Binding score: 0.41369999999999996
+
+Processing nbSARS_7f5h_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 84.1, 'max_ptm': 0.779, 'max_iptm': 0.245}
+Binding score: 0.4648
+
+
+
+
+
+Processing nblys_1mel_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 87.6, 'max_ptm': 0.667, 'max_iptm': 0.222}
+Binding score: 0.4209
+
+Processing nblys_1mel_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 84.7, 'max_ptm': 0.629, 'max_iptm': 0.171}
+Binding score: 0.376
+
+Processing nblys_1mel_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 83.8, 'max_ptm': 0.634, 'max_iptm': 0.299}
+Binding score: 0.4534
+
+Processing nblys_1mel_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 87.9, 'max_ptm': 0.589, 'max_iptm': 0.257}
+Binding score: 0.41879999999999995
+
+Processing nblys_1mel_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.8, 'max_ptm': 0.757, 'max_iptm': 0.194}
+Binding score: 0.4303
+
+Processing nblys_1mel_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:09 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+Parsed metrics: {'mean_plddt': 83.5, 'max_ptm': 0.767, 'max_iptm': 0.233}
+Binding score: 0.4534
+
+
+
+
+Running with SEED = 9
+Input directory: /content/input_fasta
+Result directory: /content/results
+Created 12 FASTA files
+Jobs created: 12
+First job: nbALB_8y9t_GFP
+
+Processing nbALB_8y9t_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.9, 'max_ptm': 0.647, 'max_iptm': 0.198}
+Binding score: 0.39980000000000004
+
+Processing nbALB_8y9t_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 84.6, 'max_ptm': 0.638, 'max_iptm': 0.19}
+Binding score: 0.39
+
+Processing nbALB_8y9t_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 82.0, 'max_ptm': 0.641, 'max_iptm': 0.24}
+Binding score: 0.4183
+
+Processing nbALB_8y9t_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 85.9, 'max_ptm': 0.547, 'max_iptm': 0.193}
+Binding score: 0.3658
+
+Processing nbALB_8y9t_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 85.8, 'max_ptm': 0.745, 'max_iptm': 0.162}
+Binding score: 0.4065
+
+Processing nbALB_8y9t_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 81.8, 'max_ptm': 0.765, 'max_iptm': 0.226}
+Binding score: 0.44689999999999996
+
+
+
+
+Processing nbNAT_8zoy_GFP...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 87.6, 'max_ptm': 0.658, 'max_iptm': 0.154}
+Binding score: 0.3774
+
+Processing nbNAT_8zoy_mCherry...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 85.9, 'max_ptm': 0.634, 'max_iptm': 0.154}
+Binding score: 0.36850000000000005
+
+Processing nbNAT_8zoy_SARS-Cov2-rbc...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 79.8, 'max_ptm': 0.597, 'max_iptm': 0.145}
+Binding score: 0.3459
+
+Processing nbNAT_8zoy_Lysozyme...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 90.6, 'max_ptm': 0.631, 'max_iptm': 0.307}
+Binding score: 0.4641
+
+Processing nbNAT_8zoy_Albumin...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:01 remaining: 00:00]
+SUBMIT:   0%|          | 0/300 [elapsed: 00:00 remaining: ?]Parsed metrics: {'mean_plddt': 86.1, 'max_ptm': 0.753, 'max_iptm': 0.165}
+Binding score: 0.411
+
+Processing nbNAT_8zoy_NAT...
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:02 remaining: 00:00]
+COMPLETE: 100%|██████████| 300/300 [elapsed: 00:00 remaining: 00:00]
+Parsed metrics: {'mean_plddt': 84.4, 'max_ptm': 0.776, 'max_iptm': 0.207}
+Binding score: 0.4414
+
+
+'''
