@@ -1,3 +1,38 @@
+# Rosetta Nanobody-Antigen Binding Evaluation
+
+PyRosetta-based framework for predicting nanobody-antigen binding through ensemble docking with IgFold structure generation.
+
+## Overview
+
+This project implements Rosetta protocols for evaluating nanobody-antigen binding interactions. The development process involved resolving numerous technical challenges related to PyRosetta compilation, dependency management, and API compatibility before achieving a functional pipeline supporting both local and cloud-based execution.
+
+## Implementation Approaches
+
+### Local Installation (WSL/Linux)
+
+Please go to the section2: local setup for more specific setup instructions on a Linux device.
+
+### Google Colab Deployment
+
+Following the official PyRosetta notebooks, I developed a streamlined cloud implementation that simplifies the setup process. The Colab environment provides GPU acceleration for IgFold predictions and eliminates local installation complexities.
+
+Notebook: `rosetta_igfold_nanobody_binding_prediction_pipeline_GoogleColab.ipynb`
+
+Based on: [PyRosetta Notebooks - Docking Tutorial](https://github.com/RosettaCommons/PyRosetta.notebooks/tree/master/notebooks/12.00-Protein-Docking)
+
+## Key Features
+
+- Multi-seed ensemble approach with 10 independent runs per pair
+- Dynamic IgFold structure generation for conformational sampling  
+- Local docking refinement optimized for antibody-antigen complexes
+- Interface analysis including binding energy and shape complementarity metrics
+
+## Evaluation Pipeline
+
+The implementation combines IgFold for structure prediction with PyRosetta's DockingProtocol for binding evaluation. Each nanobody-antigen pair undergoes multiple docking attempts with different random seeds to assess binding consistency. The InterfaceAnalyzerMover extracts key metrics including dG_cross, dSASA, and interface residue counts.
+
+# Option2: local setup
+
 # Rosetta PyRosetta and IgFold Installation Guide
 
 This guide provides comprehensive instructions for setting up Rosetta PyRosetta and IgFold in a unified environment for nanobody-antigen binding evaluation.
@@ -184,3 +219,6 @@ Integration with other tools in the pipeline (AlphaFold3, HADDOCK, etc.) follows
 - Das, R., & Baker, D. (2008). Macromolecular modeling with rosetta. Annu. Rev. Biochem., 77(1), 363-382.
 - Leaver-Fay, A., Tyka, M., Lewis, S. M., Lange, O. F., Thompson, J., Jacak, R., ... & Bradley, P. (2011). ROSETTA3: an object-oriented software suite for the simulation and design of macromolecules. In Methods in enzymology (Vol. 487, pp. 545-574). Academic Press.
 - Chaudhury, S., Lyskov, S., & Gray, J. J. (2010). PyRosetta: a script-based interface for implementing molecular modeling algorithms using Rosetta. Bioinformatics, 26(5), 689-691.
+- Ruffolo, J. A., Sulam, J., & Gray, J. J. (2022). Antibody structure prediction using interpretable deep learning. Patterns, 3(2).
+- Adolf-Bryfogle, J., Labonte, J. W., Kraft, J. C., Shapovalov, M., Raemisch, S., Lütteke, T., ... & Schief, W. R. (2024). Growing Glycans in Rosetta: Accurate de novo glycan modeling, density fitting, and rational sequon design. PLoS computational biology, 20(6), e1011895.- Weitzner, B.D., Jeliazkov, J.R., Lyskov, S., Marze, N., Kuroda, D., Frick, R., Adolf-Bryfogle, J., Biswas, N., Dunbrack Jr, R.L., & Gray, J.J. (2017). Modeling and docking of antibody structures with Rosetta. Nature Protocols, 12(2), 401-416.
+- Sircar, A., & Gray, J. J. (2010). SnugDock: paratope structural optimization during antibody-antigen docking compensates for errors in antibody homology models. PloS computational biology, 6(1), e1000644.
