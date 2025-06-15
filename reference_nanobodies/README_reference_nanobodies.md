@@ -1,4 +1,4 @@
-# Nanobody Non-Binding Experiments Workflow
+# Reference nanobody retrieval (all compatible sequences from SABDAB)
 
 ## Quick Start
 
@@ -50,3 +50,10 @@ Aggrescan3D:               Individual submission
 ```
 
 Upload appropriate batches to each server, download results, and organize in `results/` subdirectories by tool name.
+
+## References
+
+ - Schneider, C., Raybould, M. I., & Deane, C. M. (2022). SAbDab in the age of biotherapeutics: updates including SAbDab-nano, the nanobody structure tracker. Nucleic acids research, 50(D1), D1368-D1372.
+ - Dunbar, J., Krawczyk, K., Leem, J., Baker, T., Fuchs, A., Georges, G., ... & Deane, C. M. (2014). SAbDab: the structural antibody database. Nucleic acids research, 42(D1), D1140-D1146.
+ - Raybould, M. I., Marks, C., Lewis, A. P., Shi, J., Bujotzek, A., Taddese, B., & Deane, C. M. (2020). Thera-SAbDab: the therapeutic structural antibody database. Nucleic acids research, 48(D1), D383-D388.
+

@@ -175,4 +175,8 @@ MAbs 2025 doi.org/10.1080/19420862.2024.2442750
 - Sircar, A., & Gray, J. J. (2010). SnugDock: paratope structural optimization during antibody-antigen docking compensates for errors in antibody homology models. PloS computational biology, 6(1), e1000644.
 - Giulini, M., Reys, V., Teixeira, J. M., Jiménez-García, B., Honorato, R. V., Kravchenko, A., ... & Bonvin, A. M. (2025). HADDOCK3: A modular and versatile platform for integrative modelling of biomolecular complexes. bioRxiv, 2025-04.
 - Van Zundert, G. C. P., Rodrigues, J. P. G. L. M., Trellet, M., Schmitz, C., Kastritis, P. L., Karaca, E., ... & Bonvin, A. M. J. J. (2016). The HADDOCK2. 2 web server: user-friendly integrative modeling of biomolecular complexes. Journal of molecular biology, 428(4), 720-725.
-- 
+- Schneider, C., Raybould, M. I., & Deane, C. M. (2022). SAbDab in the age of biotherapeutics: updates including SAbDab-nano, the nanobody structure tracker. Nucleic acids research, 50(D1), D1368-D1372.
+- Dunbar, J., Krawczyk, K., Leem, J., Baker, T., Fuchs, A., Georges, G., ... & Deane, C. M. (2014). SAbDab: the structural antibody database. Nucleic acids research, 42(D1), D1140-D1146.
+- Raybould, M. I., Marks, C., Lewis, A. P., Shi, J., Bujotzek, A., Taddese, B., & Deane, C. M. (2020). Thera-SAbDab: the therapeutic structural antibody database. Nucleic acids research, 48(D1), D383-D388.
+- Ramon, A., Ali, M., Atkinson, M., Saturnino, A., Didi, K., Visentin, C., ... & Sormanni, P. (2024). Assessing antibody and nanobody nativeness for hit selection and humanization with AbNatiV. Nature Machine Intelligence, 6(1), 74-91.
+
