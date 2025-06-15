@@ -1,150 +1,173 @@
 # Nanobody Evaluation Toolkit
 
-Comprehensive computational framework for nanobody structure prediction, binding evaluation, and developmentability assessment through multiple complementary approaches.
+This repository aims to provide a comprehensive computational framework for nanobody structure prediction, binding evaluation, and developmentability assessment through multiple complementary approaches.
 
-This repository was created in the context of a Master Thesis in 2025 in order to organize and structure a variety of different tools used for in-silico nanobody evaluation.
+This repository was created in the context of a Master Thesis in 2025 to organize and structure a variety of different tools used for in-silico nanobody evaluation.
 
 ## Repository Structure
 
 ```
 nanobody-evaluation-toolkit/
+├── abnativ/                            # Sequence naturalness prediction
+├── aggreprot/                          # Sequence-based aggregation analysis  
+├── aggrescan/                          # AGGRESCAN aggregation assessment
 ├── aggrescan3d_developmentability/     # Structure-based aggregation prediction
 ├── alphafold3_binding_specificity/     # AlphaFold3 binding evaluation
 ├── colabfold_binding_specificity/      # ColabFold-based binding analysis
+├── deeploc2_1/                         # Subcellular localization prediction
 ├── haddock2_4_webservice_evaluation/   # HADDOCK docking evaluation
-├── rosetta_3_14_evaluation/            # Rosetta modeling and docking
+├── haddock3/                           # HADDOCK3 local installation
+├── nanomelt/                           # Thermostability prediction
+├── pyrosetta_4_evaluation/             # Rosetta modeling and docking
+├── reference_nanobodies/               # SABDAB nanobody dataset
 ├── sample_structures/                  # Example nanobody structures
-├── README_aggreprot.md                 # Sequence-based aggregation tool
-├── README_main_tools_and_wsl_setup.md  # Linux environment setup
-├── README_SherLoc2.md                  # Subcellular localization prediction
+├── README_*.md                         # Individual tool documentation
 └── requirements.txt                    # Python dependencies
 ```
 
-## Evaluation Pipeline
+## Evaluation Pipeline Overview
 
-### Phase 1: Structure Prediction and Environment Setup
+The toolkit provides comprehensive nanobody assessment through four major evaluation categories:
 
-**[Linux Environment Setup](README_main_tools_and_wsl_setup.md)** - WSL configuration for structure prediction tools
-- **IgFold**: Nanobody structure prediction from sequence
-- **AbNatiV**: Nanobody sequence naturalness scoring (also available as an online tool at https://www-cohsoftware.ch.cam.ac.uk/index.php/abnativ)
-- **HADDOCK3**: Advanced protein-protein docking (as a local installation computationally quite expensive)
-- **Rosetta3.14**: Antibody optimized protein-protein docking (also implemented as a [Google Colab compatible notebook](pyrosetta_4_evaluation/rosetta_igfold_nanobody_binding_prediction_pipeline_GoogleColab.ipynb))
+### 1. Naturalness & Sequence Quality
 
-### Phase 2: Binding Specificity Assessment
+**[AbNatiV Analysis](abnativ/README_AbNativ.md)** - Nanobody sequence naturalness scoring
+- Web server: https://www-cohsoftware.ch.cam.ac.uk/index.php/abnativ
+- Threshold: 0.8 for native-like sequences
+- **Results**: Framework regions show high conservation (0.910 ± 0.088), CDR3 displays lowest scores (0.428 ± 0.176)
 
-1. **[ColabFold Evaluation](colabfold_binding_specificity/README_colabfold_binding_specificity.md)** - AlphaFold2-Multimer v3 based analysis
-   - Multi-seed structure predictions
-   - Binding pose consistency evaluation
+![AbNatiV Naturalness Distributions](abnativ/abnativ_naturalness_distributions.png)
 
-2. **[AlphaFold3 Analysis](alphafold3_binding_specificity/README_alphafold3.md)** - Latest complex prediction
-   - External repository: [AlphaFold3 Binding Evaluation](https://github.com/ThorKlm/AlphaFold3-Prodigy-Antibody-Evaluation)
-   - Multi-seed pose consistency and binding energy estimation
+### 2. Aggregation & Developmentability Assessment
+<!--
+**[Aggrescan3D Scorer](aggrescan3d_developmentability/README_Aggrescan3D.md)** - Structure-based aggregation prediction
+- Input: CSV files from [A3D server](https://biocomp.chem.uw.edu.pl/A3D2)
+- Thresholds: ≥0.40 (Accept), 0.25-0.39 (Conditional), <0.25 (Reject)
+commented text -->
+**[AGGRESCAN Integration](aggrescan/README_aggrescan.md)** - Na4vSS aggregation scoring
+- **Results**: 92.6% of sequences show low aggregation risk (Na4vSS < 0)
+- Mean score: -6.31 ± 4.89
+![AGGRESCAN Distribution](aggrescan/aggrescan_na4vss_distribution.png)
+<!--
+**[AggreProt Integration](aggreprot/README_aggreprot.md)** - Sequence-based deep learning prediction
+- Web server: https://loschmidt.chemi.muni.cz/aggreprot/
+commented text -->
+### 3. Thermostability & Localization
 
-3. **[HADDOCK Evaluation](haddock2_4_webservice_evaluation/README_haddock_2_4.md)** - Protein-protein docking
-   - Web service-based docking analysis
-   - Classical molecular modeling approach
+**[NanoMelt Integration](nanomelt/README_nanomelt.md)** - Thermostability prediction
+- Web server: https://www-cohsoftware.ch.cam.ac.uk/index.php/nanomelt
+- **Results**: Average Tm 67.3 ± 4.8°C, suitable for therapeutic applications
 
-4. **[Rosetta Analysis](pyrosetta_4_evaluation/README_rosetta.md)** - Comprehensive modeling suite
-   - Structure refinement and binding prediction
-   - Energy-based scoring functions
+![NanoMelt Temperature Distribution](nanomelt/nanomelt_temperature_distribution.png)
 
-### Phase 3: Quality and Developmentability Assessment
+**[DeepLoc2.1 Analysis](deeploc2_1/README_DeepLoc_2_1.md)** - Subcellular localization prediction
+- **Results**: 93.3% predicted as extracellular, 99.8% soluble (expected for therapeutic nanobodies)
 
-#### Aggregation Prediction
-1. **[Aggrescan3D Scorer](aggrescan3d_developmentability/README_Aggrescan3D.md)** - Structure-based aggregation prediction
-   - Input: CSV files from [A3D server](https://biocomp.chem.uw.edu.pl/A3D2)
-   - Output: Composite developmentability score (0-1 range)
-   - Thresholds: ≥0.40 (Accept), 0.25-0.39 (Conditional), <0.25 (Reject)
+![Localization Summary](deeploc2_1/score_distributions.png)
+<!-- 
+**[SherLoc2 Analysis](README_SherLoc2.md)** - Containerized localization prediction
+- Docker-based tool for comprehensive subcellular analysis
+commented text -->
+### 4. Binding Specificity Assessment
 
-2. **[AggreProt Integration](README_aggreprot.md)** - Sequence-based aggregation prediction
-   - Web server: https://loschmidt.chemi.muni.cz/aggreprot/
-   - 2024 state-of-the-art deep learning ensemble
+**[AlphaFold3 Analysis](alphafold3_binding_specificity/README_alphafold3_extern.md)** - Latest complex prediction
+- External repository: [AlphaFold3 Binding Evaluation](https://github.com/ThorKlm/AlphaFold3-Prodigy-Antibody-Evaluation)
+- Multi-seed pose consistency and binding energy estimation
+![Localization Summary](alphafold3_binding_specificity/mse_matrix_top_model.png)
+**[ColabFold Evaluation](colabfold_binding_specificity/README_colabfold_binding_specificity.md)** - AlphaFold2-Multimer v3
+- Google Colab-compatible binding assessment
+- Deterministic seeding
+![Localization Summary](colabfold_binding_specificity/binding_matrix_alphafold2_multimer.png)
 
-3. **[Solubis Integration](README_solubis.md)** - Additional solubility assessment
-   - Complementary solubility prediction methodology
+**[HADDOCK Evaluation](haddock2_4_webservice_evaluation/README_haddock_2_4.md)** - Information-driven docking
+- **Results**: No significant specificity for true binding pairs in 6×6 evaluation matrix
 
-#### Stability and Localization
-4. **[NanoMelt Integration](nanomelt/README_nanomelt.md)** - Thermostability prediction
-   - Web server: https://www-cohsoftware.ch.cam.ac.uk/index.php/nanomelt
-   - Apparent melting temperature prediction (related to chemical stability)
+![HADDOCK Binding Matrix](haddock2_4_webservice_evaluation/binding_matrix_haddock_2_4.png)
 
-5. **[SherLoc2 Analysis](README_SherLoc2.md)** - Subcellular localization prediction
-   - Containerized bioinformatics tool for eukaryotic protein localization
-   - Multiple prediction methods including SVMTarget, MotifSearch, GOLoc
+**[Rosetta Analysis](pyrosetta_4_evaluation/README_rosetta.md)** - Comprehensive modeling suite
+- **Results**: No reasonable specificity detected (-4.3 ± 1.4 REU across all pairs)
 
-6. **[DeepLoc2.1 Analysis](deeploc2_1/README_DeepLoc_2_1.md)** - Deep learning subcellular localization prediction
-   - Web-based tool for eukaryotic protein localization using multi-label classification
-   - Predicts 10 cellular compartments and 4 membrane association types
+![PyRosetta Binding Matrix](pyrosetta_4_evaluation/binding_matrix_pyrosetta4_igfold.png)
+
+## Environment Setup
+
+**[Linux Environment Setup - WSL configuration for structure prediction tools](README_main_tools_and_wsl_setup.md)**
+- IgFold: Nanobody structure prediction from sequence  
+- AbNatiV: Local naturalness scoring
+- HADDOCK3: Advanced protein-protein docking
+- Rosetta3.14: Antibody-optimized modeling
+
+## Key Findings
+
+### Predictions of nanobody related features
+- **Naturalness**: AbNatiV effectively distinguishes native-like sequences
+- **Aggregation**: AGGRESCAN and AggreProt provide consistent risk assessment
+- **Stability**: NanoMelt predictions align with therapeutic requirements
+- **Localization**: Clear extracellular/soluble classification for therapeutic candidates
+
+### Current Limitations
+- **Binding Specificity**: Current methods (HADDOCK, Rosetta) show insufficient discrimination between true and false binding pairs, while the AlphaFold notebooks do show some but not ideal characteristics.
+- **Structure Dependence**: Many tools require high-quality 3D structures
+- **Computational Cost**: Local installations demand significant resources
 
 ## Workflow Implementation
 
+### Quick Start
+```bash
+# Environment setup
+pip install -r requirements.txt
+# Follow WSL setup guide for Linux tools: README_main_tools_and_wsl_setup.md
+
+# Web-based analysis (recommended)
+# 1. AbNatiV: https://www-cohsoftware.ch.cam.ac.uk/index.php/abnativ
+# 2. NanoMelt: https://www-cohsoftware.ch.cam.ac.uk/index.php/nanomelt  
+# 3. AggreProt: https://loschmidt.chemi.muni.cz/aggreprot/
+# 4. DeepLoc2.1: https://services.healthtech.dtu.dk/services/DeepLoc-2.1/
+```
+
+### Reference Dataset
+**[SABDAB Nanobodies](reference_nanobodies/README_reference_nanobodies.md)** - Complete nanobody sequence retrieval
+- Automated batch processing for web servers
+- Standardized evaluation across 1000+ sequences
+
 ### Structure Prediction (Linux/WSL)
 ```bash
-# Setup environment
-cd README_main_tools_and_wsl_setup.md  # Follow setup instructions
 conda activate Rosetta
-
-# Generate structures with IgFold
 python run_igfold.py --sequences nanobody_sequences.fasta
 ```
 
-### Binding Evaluation Pipeline
+### Binding Evaluation
 ```bash
-# 1. ColabFold analysis
+# Google Colab (recommended)
+# Open: pyrosetta_4_evaluation/rosetta_igfold_nanobody_binding_prediction_pipeline_GoogleColab.ipynb
+
+# Local analysis
 cd colabfold_binding_specificity/
 python evaluate_binding_matrix.py
-
-# 2. HADDOCK evaluation  
-cd ../haddock2_4_webservice_evaluation/
-python submit_haddock_jobs.py
-
-# 3. Rosetta analysis
-cd ../pyrosetta_4_evaluation/
-python rosetta_binding_analysis.py
 ```
 
-### Quality Assessment
+### Quality Assessment  
 ```bash
 # Structure-based aggregation
 cd aggrescan3d_developmentability/
 python quality_score_prediction_by_single_amino_acid_values.py
-
-# Additional evaluations via web servers:
-# - AggreProt: https://loschmidt.chemi.muni.cz/aggreprot/
-# - NanoMelt: https://www-cohsoftware.ch.cam.ac.uk/index.php/nanomelt
-```
-
-### Specialized Analysis
-```bash
-# Subcellular localization (Docker-based)
-docker run -d -p 28030:80 sherloc2-image
-# Access: http://localhost:28030/cgi-bin/webloc.cgi
 ```
 
 ## Integration Strategy
 
-The toolkit provides comprehensive evaluation through:
-- **Structure prediction**: IgFold, AlphaFold variants
-- **Binding assessment**: Multiple docking and prediction approaches  
-- **Developmentability**: Aggregation, stability, and solubility analysis
-- **Specialized metrics**: Naturalness scoring and localization prediction
+The toolkit provides systematic evaluation through:
+- **Multi-dimensional assessment**: Naturalness, stability, aggregation, localization
+- **Complementary approaches**: Sequence-based and structure-based methods
+- **Scalable processing**: Web servers for high-throughput analysis
+- **Standardized metrics**: Consistent scoring across different tools
 
-Combined analysis enables robust nanobody candidate assessment across multiple criteria essential for therapeutic development.
-
-## Quick Start
-
-### Environment Setup
-```bash
-pip install -r requirements.txt
-# Follow WSL setup guide for Linux tools
-```
+**Recommendation**: Focus on naturalness and developmentability metrics for reliable candidate ranking, while treating binding predictions as preliminary assessments requiring experimental validation.
 
 ## Repository
 
 **GitHub**: https://github.com/ThorKlm/nanobody-evaluation-toolkit
 
 ## References
-
 
 - Briesemeister, S.; Blum, T.; Brady, S.; Lam, Y.; Kohlbacher, O. and Shatkay, H. (2009). SherLoc2: a high-accuracy hybrid method for predicting subcellular localization of proteins. *J. Proteome Res.* 8(11):5363-5366.
 - Ramon A, Predeina O, Gaffey R, Kunz P, Onuoha S, and Sormanni P
