@@ -52,7 +52,7 @@ nanobody-evaluation-toolkit/
 
 #### Aggregation Prediction
 1. **[Aggrescan3D Scorer](aggrescan3d_developmentability/README_Aggrescan3D.md)** - Structure-based aggregation prediction
-   - Input: CSV files from [A3D server](https://biocomp.chem.ub.es/a3d2)
+   - Input: CSV files from [A3D server](https://biocomp.chem.uw.edu.pl/A3D2)
    - Output: Composite developmentability score (0-1 range)
    - Thresholds: ≥0.40 (Accept), 0.25-0.39 (Conditional), <0.25 (Reject)
 
@@ -72,7 +72,7 @@ nanobody-evaluation-toolkit/
    - Containerized bioinformatics tool for eukaryotic protein localization
    - Multiple prediction methods including SVMTarget, MotifSearch, GOLoc
 
-6. **[DeepLoc2.1 Analysis](README_DeepLoc_2_1.md)** - Deep learning subcellular localization prediction
+6. **[DeepLoc2.1 Analysis](deeploc2_1/README_DeepLoc_2_1.md)** - Deep learning subcellular localization prediction
    - Web-based tool for eukaryotic protein localization using multi-label classification
    - Predicts 10 cellular compartments and 4 membrane association types
 
