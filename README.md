@@ -64,7 +64,7 @@ nanobody-evaluation-toolkit/
    - Complementary solubility prediction methodology
 
 #### Stability and Localization
-4. **[NanoMelt Integration](README_nanomelt.md)** - Thermostability prediction
+4. **[NanoMelt Integration](nanomelt/README_nanomelt.md)** - Thermostability prediction
    - Web server: https://www-cohsoftware.ch.cam.ac.uk/index.php/nanomelt
    - Apparent melting temperature prediction (related to chemical stability)
 
