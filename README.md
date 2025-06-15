@@ -28,7 +28,7 @@ nanobody-evaluation-toolkit/
 - **IgFold**: Nanobody structure prediction from sequence
 - **AbNatiV**: Nanobody sequence naturalness scoring (also available as an online tool at https://www-cohsoftware.ch.cam.ac.uk/index.php/abnativ)
 - **HADDOCK3**: Advanced protein-protein docking (as a local installation computationally quite expensive)
-- **Rosetta3.14**: Antibody optimized protein-protein docking (also implemented as a [Google Colab compatible notebook](rosetta_3_14_evaluation/rosetta_igfold_nanobody_binding_prediction_pipeline_GoogleColab.ipynb))
+- **Rosetta3.14**: Antibody optimized protein-protein docking (also implemented as a [Google Colab compatible notebook](pyrosetta_4_evaluation/rosetta_igfold_nanobody_binding_prediction_pipeline_GoogleColab.ipynb))
 
 ### Phase 2: Binding Specificity Assessment
 
@@ -44,7 +44,7 @@ nanobody-evaluation-toolkit/
    - Web service-based docking analysis
    - Classical molecular modeling approach
 
-4. **[Rosetta Analysis](rosetta_3_14_evaluation/README_rosetta.md)** - Comprehensive modeling suite
+4. **[Rosetta Analysis](pyrosetta_4_evaluation/README_rosetta.md)** - Comprehensive modeling suite
    - Structure refinement and binding prediction
    - Energy-based scoring functions
 
@@ -99,7 +99,7 @@ cd ../haddock2_4_webservice_evaluation/
 python submit_haddock_jobs.py
 
 # 3. Rosetta analysis
-cd ../rosetta_3_14_evaluation/
+cd ../pyrosetta_4_evaluation/
 python rosetta_binding_analysis.py
 ```
 

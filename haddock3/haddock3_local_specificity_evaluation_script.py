@@ -154,7 +154,8 @@ min_population = 10
                 cluster_df = pd.read_csv(cluster_file, sep='\t')
                 if not cluster_df.empty:
                     results['cluster_size'] = cluster_df.iloc[0].get('n', 0)
-
+        except:
+            pass
         return results
 
     def run_all_combinations(self, max_workers: int = 4):
